@@ -1,3 +1,6 @@
+![Discovery](https://img.shields.io/badge/BCDevExchange-Discovery-yellow.svg "Being designed and built, but in the lab. May change, disappear, or be buggy.") 
+
+
 # BC-Policy-Framework-For-GitHub
 All the information a BC Gvt employee could ever want about GitHub
 
