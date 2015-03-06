@@ -1,7 +1,4 @@
-<a rel="license" href="https://github.com/BCDevExchange/docs/wiki/State-Labels"><img alt="Being designed and built, but in the lab. May change, disappear, or be buggy." style="border-width:0" src="https://img.shields.io/badge/BCDevExchange-Discovery-yellow.svg" /></a>
-
-![Discovery](https://img.shields.io/badge/BCDevExchange-Discovery-yellow.svg "Being designed and built, but in the lab. May change, disappear, or be buggy.") 
-
+<a rel="license" href="https://github.com/BCDevExchange/docs/wiki/Project-States"><img alt="Being designed and built, but in the lab. May change, disappear, or be buggy." style="border-width:0" src="https://img.shields.io/badge/BCDevExchange-Discovery-yellow.svg" /></a>
 
 # BC-Policy-Framework-For-GitHub
 All the information a BC Gvt employee could ever want about GitHub
