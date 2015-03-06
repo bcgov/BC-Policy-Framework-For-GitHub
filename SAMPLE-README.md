@@ -1,9 +1,8 @@
-# BCDevX-Policy-Framework
-BC Developers' Exchange Policy and Guidline Documents
+# BC-Policy-Framework
+BC Developers' Policy and Guidline Documents
 
-# Welcome to the BCDevX-FrameWork!
 ***
-The British Columbia Developers' Exchange Framework Project is an ongoing effort to enable public & private sector, as well at citizen developers, the ability to collaborate on, leverage and integrate technology assets outside of the typical government procurement/contract model.
+The BCGov GitHub Organization is an ongoing effort to enable public & private sector, as well at citizen developers, the ability to collaborate on, leverage and integrate technology assets outside of the typical government procurement/contract model.
 
 This repo's content is focused on providing information, examples and guidelines to facilitate the creation and governance of BCGov Open Source projects. 
 
@@ -14,5 +13,27 @@ The framework work items that are actively being constructed are listed
 ## Active Stuff Here:
 * Stay Tuned
 
+## Example Readme
 
+This readme serves as an example readme for a government open source project. A brief description of your project would go here.
+
+## Features
+
+## Usage
+
+## Requirements
+
+## Installation
+
+## Project Status
+
+## Goals/Roadmap
+
+## Getting Help or Reporting an Issue
+
+## How to Contribute
+
+
+
+License
 
