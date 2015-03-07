@@ -13,8 +13,8 @@ March 2015: We are at the discovery phase of the project and we are currently co
 
 The framework work items that are actively being constructed are listed
 ## Active Stuff Here:
-* README.md template
-* CONTRIBUTING.md template
+* SAMPLE-README.md template
+* SAMPLE-CONTRIBUTING.md template
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">BC Policy Framework For GitHub by the Province of British Columbia</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
