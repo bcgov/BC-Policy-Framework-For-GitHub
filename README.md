@@ -4,7 +4,7 @@
 BC Developers' Policy and Guidline Documents - All the information a BC Gvt employee could ever want about GitHub
 
 ***
-The BCGov GitHub Organization represents an ongoing effort to enable public & private sector, as well at citizen developers, the ability to collaborate on, leverage and integrate technology assets outside of the typical government procurement/contract model.
+The BCGov GitHub Organization represents an ongoing effort to enable public & private sector, as well as citizen developers, the ability to collaborate on, leverage and integrate technology assets outside of the typical government procurement/contract model.
 
 This repo's content is focused on providing information, examples and guidelines to facilitate the creation and governance of BCGov Open Source projects. 
 
