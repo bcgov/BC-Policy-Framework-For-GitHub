@@ -1,6 +1,6 @@
 #Joining the BCGov Organization#
 
-The BCGov Organization on GitHub.com is the **only approved venue** for Open Source collaboration on Provence Of British Columbia files.
+The BCGov Organization on GitHub.com is the **only approved venue** for Open Source collaboration on Province Of British Columbia files.
 
 To get started as a BC Government employee or contractor on a BC Government Open Source Project, you will need to <a rel="join" href="https://github.com/join"> create a GitHub account</a> (ideally using your name (FirstnameLastname) but we're flexible on this one) **and** link the account to your "work" email. 
 
