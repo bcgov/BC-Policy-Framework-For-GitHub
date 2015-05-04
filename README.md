@@ -9,12 +9,12 @@ The BCGov GitHub Organization represents an ongoing effort to enable public & pr
 This repo's content is focused on providing information, examples and guidelines to facilitate the creation and governance of BCGov Open Source projects. 
 
 ## Project Status
-April 2015: We are at the discovery phase of the project and we are currently collecting material to form the content of this repository. Right now we are helping some early adopter projects get existing code up on GitHub. If are asking yourself "I wonder if my project code could be added to GitHub?" there is a great resource on OSS-Watch that walks you through an [openness rating checklist] (http://oss-watch.ac.uk/apps/openness/)
+May 2015: We are at the discovery phase of the project and we are currently collecting material to form the content of this repository. Right now we are helping some early adopter projects get existing code up on GitHub. If are asking yourself "I wonder if my project code could be added to GitHub?" there is a great resource on OSS-Watch that walks you through an [openness rating checklist] (http://oss-watch.ac.uk/apps/openness/)
 
 The framework work items that are actively being constructed are listed
 ## Active Stuff Here:
 * SAMPLE-README.md template
-* Joining-the-BCGov-on-GitHub.md
+* BC-Open-Source-Development-Employee-Guide/Licenses.md
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">BC Policy Framework For GitHub by the Province of British Columbia</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
