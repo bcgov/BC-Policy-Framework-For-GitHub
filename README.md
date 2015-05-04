@@ -13,7 +13,7 @@ May 2015: We are at the discovery phase of the project and we are currently coll
 
 The framework work items that are actively being constructed are listed
 ## Active Stuff Here:
-* [SAMPLE-README.md template] (SAMPLE-README.md)
+* [BC-Gov-Org-HowTo/SAMPLE-README.md template] (BC-Gov-Org-HowTo/SAMPLE-README.md)
 * [BC-Open-Source-Development-Employee-Guide/Licenses.md] (BC-Open-Source-Development-Employee-Guide/Licenses.md)
 
 ## License
