@@ -21,7 +21,8 @@ This readme serves as an example readme for a government open source project. A 
 
 ## License
 
-The Province of British Columbia through the BCDevExchange project has done the leagal beagle homework to provide 2 default licenses for open source material we create.
+Detailed guidance around licenses is available 
+[here] (../licenses.md)
 
 Attach the appropriate LICENSE file directly into your repository before you do anything else!
 
