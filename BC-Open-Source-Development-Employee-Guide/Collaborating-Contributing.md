@@ -23,7 +23,7 @@ You have some code, and want to make it available and then run it as an active p
 - Ensuring there are no restrictions on releasing the code or documentation imposed by legislation, policy or contracts
 - Vetting any library dependencies, sample or config data to ensure it is appropriate for release or is separated out and applying a license boiler plate [if needed](../BC-Gov-Org-HowTo/using-licenses.md).
 - Choosing an open source license and confirm your authority to license (see [Licenses](Licenses.md))
-- Creating minimum content ([README.md](..BC-Gov-Org-HowTo/SAMPLE-README.md), [CONTRIBUTING.md](BC-Gov-Org-HowTo/SAMPLE-CONTRIBUTING.md) and [LICENSE](BC-Gov-Org-HowTo/using-licenses.md) files)
+- Creating minimum content ([README.md](../BC-Gov-Org-HowTo/SAMPLE-README.md), [CONTRIBUTING.md](../BC-Gov-Org-HowTo/SAMPLE-CONTRIBUTING.md) and [LICENSE](../BC-Gov-Org-HowTo/using-licenses.md) files)
 
 If you are intending to maintain an active project, you will need to ensure you have established the appropriate processes and terms to manage contributions (described in "initiating a new project" below).
 
@@ -33,7 +33,7 @@ You may have a code development initiative that you'd like to manage as an open 
 
 - Choosing an open source license and confirm your authority to license (see  [Licenses](Licenses.md))
 - Determining the mechanics of how contributions will be made/managed and ensuring this information is included in the "Contributing" file in the repository.
-- Creating minimum content ([README.md](BC-Gov-Org-HowTo/SAMPLE-README.md), [CONTRIBUTING.md](BC-Gov-Org-HowTo/SAMPLE-CONTRIBUTING.md) and [LICENSE](using-licenses.md) files)
+- Creating minimum content ([README.md](../BC-Gov-Org-HowTo/SAMPLE-README.md), [CONTRIBUTING.md](../BC-Gov-Org-HowTo/SAMPLE-CONTRIBUTING.md) and [LICENSE](../BC-Gov-Org-HowTo/using-licenses.md) files)
 
 ### 3. Contributing to an outside project
 
