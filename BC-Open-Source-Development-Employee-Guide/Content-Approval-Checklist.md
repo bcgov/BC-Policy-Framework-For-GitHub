@@ -16,19 +16,12 @@ Any "No" answers require additional investigation.
 | **Copyright:** _Ministries  **must**  contact the Intellectual Property Program to assist in this assessment. Any legal review or legal advice will provided by Legal Services Branch_. |
 | Is the content created solely by B.C. government employees? |     |   |
 | Is the content fully owned by the B.C. government (i.e., have you ensured that it does not contain any third party content)?_Note: collect copies of any contracts related to the content for review with IPP_ |     |   |
-| Can you confirm that there are no terms of use or any exclusive licenses that would prohibit the Province from licensing the content on GitHub?_Note: collect information concerning any terms of use or licenses related to the content for review with IPP_ |   |   |
-| Do you have authority to licence the content?If "yes", indicate the source of the authority:
-
-\_\_\_ Intellectual Property Program (attach approval email received from IPP)
-
-\_\_\_ Treasury Board
-
-\_\_\_ ministry legislative authority (identity Act and applicable section below):
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |   |   |
-| **Legal, Contractual or Policy Constraints:** |
+| Can you confirm that there are no terms of use or any exclusive licenses that would prohibit the Province from licensing the content on GitHub?_Note: collect information concerning any terms of use or licenses related to the content for review with IPP_ |     |   |
+| Do you have authority to licence the content?If "yes", indicate the source of the authority: [] Intellectual Property Program (attach approval email received from IPP) [] Treasury Board [] ministry legislative authority (identity Act and applicable section below): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |     |     |
+| **Legal, Contractual or Policy Constraints:** |     |   |
 | Is the public release and use of the Content permitted under law, contract or policy (e.g., have you ensured that there are no relevant legal, contractual or policy restrictions or limitations)? |     |   |
 | If there are legal, contractual or policy restrictions or limitations to the public release or use of theContent, have they been addressed? |     |   |
-| **Security Controls** |
+| **Security Controls** |     |   |
 | Have you contacted your ministry information security officer (MISO) to ensure that all necessary security controls have been implemented? |     |   |
 | Has the material been labelled as 'Public' using the Information Security Classification Framework? |     |   |
 

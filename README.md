@@ -1,7 +1,7 @@
 <a rel="Exploration" href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"><img alt="Being designed and built, but in the lab. May change, disappear, or be buggy." style="border-width:0" src="http://bcdevexchange.org/badge/2.svg" title="Being designed and built, but in the lab. May change, disappear, or be buggy." /></a>
 
 # BC-Policy-Framework-For-GitHub
-BC Developers' Policy and Guidline Documents - All the information a BC Gvt employee could ever want about GitHub
+BC Developers' Policy and Guideline Documents - All the information a BC Gvt employee could ever want about GitHub
 
 ***
 The BCGov GitHub Organization represents an ongoing effort to enable public & private sector, as well as citizen developers, the ability to collaborate on, leverage and integrate technology assets outside of the typical government procurement/contract model.
