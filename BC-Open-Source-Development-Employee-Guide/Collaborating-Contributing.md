@@ -21,7 +21,7 @@ You have some code, and want to make it available and then run it as an active p
   - If any of it is from another open source project, you will need to ensure you adhere to the existing licensing provisions and ensure license compatibility when you select a license to apply to your project.
 - ·Ensuring there are no other Intellectual Property considerations in the code or documentation (such as patent rights or trademarks)
 - Ensuring there are no restrictions on releasing the code or documentation imposed by legislation, policy or contracts
-- Vetting any library dependencies, sample or config data to ensure it is appropriate for release or is separated out and applying a license boiler plate [if needed](BC-Gov-Org-HowTo/using-licenses.md).
+- Vetting any library dependencies, sample or config data to ensure it is appropriate for release or is separated out and applying a license boiler plate [if needed](..BC-Gov-Org-HowTo/using-licenses.md).
 - Choosing an open source license and confirm your authority to license (see [Licenses](Licenses.md))
 - Creating minimum content ([README.md](BC-Gov-Org-HowTo/SAMPLE-README.md), [CONTRIBUTING.md](BC-Gov-Org-HowTo/SAMPLE-CONTRIBUTING.md) and [LICENSE](BC-Gov-Org-HowTo/using-licenses.md) files)
 
