@@ -47,3 +47,4 @@ There may be circumstances in which it is useful and appropriate for employees t
 - Confirm your authority to license (see  [Licenses](Licenses.md)).
 
 Employees may also make contributions of non-BC government owned intellectual property rights outside their professional roles by using their personal email linked to their GitHub account.
+
