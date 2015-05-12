@@ -48,3 +48,7 @@ There may be circumstances in which it is useful and appropriate for employees t
 
 Employees may also make contributions of non-BC government owned intellectual property rights outside their professional roles by using their personal email linked to their GitHub account.
 
+
+----------
+
+[Go back to the Contents List](README.md) or continue reading [Appropriate Use](appropriate-use.md)

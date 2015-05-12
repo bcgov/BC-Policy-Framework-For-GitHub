@@ -14,10 +14,9 @@ This document is "Beta" – however, all steps indicated as "required" are to be
 - [Approval Requirements](Content-Approval-Checklist.md)
 - [Approaches to Collaborating/Contributing](Collaborating-Contributing.md)
 - [Appropriate Use](appropriate-use.md)
-- Conflict of Interest
-- Privacy and Intellectual Property
+- [Conflict of Interest, Privacy and Intellectual Property](COI-Priv-IP.md)
 - [Licenses](Licenses.md)
-- Security
+- [Security](Security.md)
 
 
 # Why do we need this guide?

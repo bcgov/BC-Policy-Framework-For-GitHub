@@ -70,3 +70,7 @@ The Open Content Assessment must be completed by ministries to ensure that there
 
 Deputy Minister (or delegate)                                        Date
 
+
+----------
+
+[Go back to the Contents List](README.md) or continue reading [Approaches to Collaborating/Contributing](Collaborating-Contributing.md)
