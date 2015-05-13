@@ -7,3 +7,8 @@ Participating in a collaborative environment to share and develop digital resour
 **Being Responsible** – includes acting with integrity and using your time and resources effectively and efficiently, and considering the impacts of your actions on others.
 
 **Being Compliant** – includes acting in accordance with the OCIO Information Systems Development Standard (section 2.1) or under an approved exception to the standard.
+
+
+----------
+
+[Go back to the Contents List](README.md) or continue reading [Browsing and Consuming Material in GitHub](browsing-consuming.md)

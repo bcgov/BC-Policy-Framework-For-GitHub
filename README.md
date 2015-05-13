@@ -12,8 +12,8 @@ This repo's content is focused on providing information, examples and guidelines
 
 The document content, templates and guides are organized into two categories ("Employee Guide" and "How To"). These are best accessed using the contents section provided in the README files:
 
-# [Employee Guide](../BC-Open-Source-Development-Employee-Guide/README.md)
-# [How To's](../BC-Gov-Org-HowTo/README.md)
+# [Employee Guide](/BC-Open-Source-Development-Employee-Guide/README.md)
+# [How To's](/BC-Gov-Org-HowTo/README.md)
 
 
 ----------
