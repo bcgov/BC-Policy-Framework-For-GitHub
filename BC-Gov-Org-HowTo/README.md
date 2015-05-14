@@ -13,7 +13,7 @@ This document is "Beta" – however, all artifacts are available for use in thei
 	- [Joining the BCGov on GitHub](Joining-the-BCGov-on-GitHub.md )
 	- [Creating and Deleting Repos](Creating-And-Deleting-Repos.md)
 	- [Using Licenses](using-licenses.md)
-	- [OCIO Open Source Software Guide](/ref-docs/96184_Open_Source_Guidline.pdf)
+	- [OCIO Open Source Software Guide](/ref-docs/96184_Open_Source_Guideline.pdf)
 - Templates
 	- [Sample Contributing File](SAMPLE-CONTRIBUTING.md)
 	- [Sample ReadMe File](SAMPLE-README.md)
