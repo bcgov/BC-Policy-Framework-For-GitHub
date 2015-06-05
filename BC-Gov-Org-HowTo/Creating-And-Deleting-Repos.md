@@ -9,7 +9,7 @@ If you are creating an empty project on day one, you're on the "happy path." If 
 - Then you will need to email the BCGov Org contact (see  the email link at the top of the <a rel="home" href="https://github.com/bcgov"> BCGov Org Page</a>) and ask to be added to an admin team for the BCGov GitHub organization.
 - Now, when you create a new repo you need to select ‘BCGov’ as the owner (not your employee account).
 	- Therefore, content added to the repo is ‘owned’ in GitHub terminology by BCGov, not the employee. 
-	- There are things to consider when naming your repo that were a good fit for a seperate "How To" that lives [here](/Naming-Repos.md)
+	- There are things to consider when naming your repo that were a good fit for a seperate "How To" that lives [here](Naming-Repos.md)
 - You will need to add the minimum content (License, Readme, and contributing files) to your repo before you get going on any project activities.
 
 This process addresses legal concerns about content and security concerns about what would happen if an employee decides to close their GitHub account in the future. However, if an administrator deletes a repo in addition to closing their account, the repo itself and its contents are gone forever.
