@@ -22,7 +22,7 @@ This readme serves as an example readme for a government open source project. A 
 ## License
 
 Detailed guidance around licenses is available 
-[here] (BC-Open-Source-Development-Employee-Guide/Licenses.md)
+[here] (BC-Policy-Framework-For-GitHub/BC-Open-Source-Development-Employee-Guide/Licenses.md)
 
 Attach the appropriate LICENSE file directly into your repository before you do anything else!
 
