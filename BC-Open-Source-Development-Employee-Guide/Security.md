@@ -22,7 +22,7 @@ There is a [healthy debate](http://www.dwheeler.com/secure-programs/Secure-Progr
 	Sounds obvious but this step has been skipped by every developer in the world at least once. The simple action of having a second set of eyes on the code can avoid many pitfalls before it's too late.
 - **Follow standards**
 
-    The BC Office of Chief Information Officer (OCIO) provides the IM/IT Standards and Exemption processes. The standards are intended to provide consistancy accross government technology resources and cover many topics including secutity.
+    The BC Office of Chief Information Officer (OCIO) provides the IM/IT Standards and Exemption processes. The standards are intended to provide consistancy accross government technology resources and cover many topics including security.
     - [OCIO IM/IT Standards](http://www2.gov.bc.ca/gov/content/governments/services-for-government/information-technology/standards)
     
 - **Stay up to date on security best practices**
