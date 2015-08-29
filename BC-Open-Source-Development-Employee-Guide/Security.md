@@ -30,6 +30,7 @@ There is a [healthy debate](http://www.dwheeler.com/secure-programs/Secure-Progr
 	Most languages, platforms and products have best practices for securing applications - find them, follow them and keep current because security is a moving target.
 	
 	Here are some examples:
+	- [Linux Foundation OSS Security Badges](https://github.com/linuxfoundation/cii-best-practices-badge)
 	- [Unix, PHP, Python and general programing](http://www.dwheeler.com/secure-programs/Secure-Programs-HOWTO/index.html)
 	- [Java](https://www.java.com/en/security/developer-info.jsp)
 	- <a href="https://msdn.microsoft.com/en-us/library/zdh19h94(v=vs.140).aspx">MSDN: Windows & .NET</a>
