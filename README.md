@@ -1,5 +1,11 @@
-[![Stories in Ready](https://badge.waffle.io/bcgov/BC-Policy-Framework-For-GitHub.png?label=ready&title=Ready)](https://waffle.io/bcgov/BC-Policy-Framework-For-GitHub)
 <a rel="Delivery" href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"><img alt="In production, but maybe in Alpha or Beta. Intended to persist and be supported." style="border-width:0" src="http://bcdevexchange.org/badge/3.svg" title="In production, but maybe in Alpha or Beta. Intended to persist and be supported." /></a> 
+
+Kanban Backlog: [![Stories in Ready](https://badge.waffle.io/bcgov/BC-Policy-Framework-For-GitHub.png?label=ready&title=Ready)](https://waffle.io/bcgov/BC-Policy-Framework-For-GitHub)
+
+Quick Navigation Files:
+### [Employee Guide](/BC-Open-Source-Development-Employee-Guide/README.md)
+### [How To's](/BC-Gov-Org-HowTo/README.md)
+
 
 # BC-Policy-Framework-For-GitHub
 BC Developers' Policy and Guideline Documents - All the information a BC Gvt employee could ever want about GitHub
@@ -11,7 +17,7 @@ This repo's content is focused on providing information, examples and guidelines
 
 ## Features
 
-The document content, templates and guides are organized into two categories ("Employee Guide" and "How To"). These are best accessed using the contents section provided in the README files:
+The document content, templates and guides are organized into two categories ("Employee Guide" and "How To"). These are best accessed using the contents section provided in the under these navigation files:
 
 # [Employee Guide](/BC-Open-Source-Development-Employee-Guide/README.md)
 # [How To's](/BC-Gov-Org-HowTo/README.md)
@@ -21,7 +27,11 @@ The document content, templates and guides are organized into two categories ("E
 
 
 ## Project Status
-June 2015: We are at the "Beta" delivery phase of the project and we are currently collecting material to form the content of this repository. Right now we are helping some early adopter projects get existing code up on GitHub. If are asking yourself "I wonder if my project code could be added to GitHub?" there is a great resource on OSS-Watch that walks you through an [openness rating checklist] (http://oss-watch.ac.uk/apps/openness/)
+November 2015: We have arrived at the delivery phase of the project now that we have been given sign off from the BC Government Chief Information Officer on the Employee Guide contents of this repository. That means we are starting the process of operationalizing our Org activities here on GitHub :)
+
+Right now we are helping some early adopter projects get existing code up on GitHub. If are asking yourself "I wonder if my project code could be added to GitHub?" there is a great resource on OSS-Watch that walks you through an [openness rating checklist] (http://oss-watch.ac.uk/apps/openness/)
+
+If you are starting a brand new project - you came to the right place! This repo will get you going in the right direction.
 
 The framework work items that are actively being constructed are listed
 ## Active Stuff Here:
