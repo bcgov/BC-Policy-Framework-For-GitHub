@@ -30,7 +30,7 @@ You may have a code development initiative that you’d like to manage as an ope
 - Choose an open source licence and confirm your authority to license (see  [Licenses](Licenses.md))
 - Determine the mechanics of how contributions will be made/managed and ensure this information is included in the “Contributing” file in the repository
 - Creating minimum content ([README.md](../BC-Gov-Org-HowTo/SAMPLE-README.md), [CONTRIBUTING.md](../BC-Gov-Org-HowTo/SAMPLE-CONTRIBUTING.md) and [LICENSE](../BC-Gov-Org-HowTo/using-licenses.md) files)
-- We encourage you to add a [Contributor Code of Conduct](http://contributor-covenant.org/) to your repository. This lets people know that all are welcome to contribute, and that all who contribute pledge to make participation in the project a harassment-free experience for everyone. To do so, include a [CODE_OF_CONDUCT.md](../BC-Gov-Org-HowTo/SAMPLE-CODE_OF_CONDUCT.md), and provide a contact method to the placeholder so that people know how to report violations. It is a good idea to introduce the code of conduct in your `README.md`.
+- We encourage you to add a [Contributor Code of Conduct](http://contributor-covenant.org/) to your repository. This lets people know that all are welcome to contribute, and that all who contribute pledge to make participation in the project a harassment-free experience for everyone. To do so, include a [CODE_OF_CONDUCT.md](../BC-Gov-Org-HowTo/SAMPLE-CODE_OF_CONDUCT.md), and provide a contact method (in the placeholder) so that people know how to report violations. It is a good idea to introduce the code of conduct in your `README.md`.
 
 
 ### 3. Contributing to an outside project
