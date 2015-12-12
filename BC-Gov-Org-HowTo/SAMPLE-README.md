@@ -19,6 +19,9 @@ This readme serves as an example readme for a government open source project. A 
 
 ## How to Contribute
 
+*If you are including a Code of Conduct, make sure that you have a [CODE_OF_CONDUCT.md](SAMPLE-CODE_OF_CONDUCT.md) file, and include the following text in here in the README:*
+"Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms."
+
 ## License
 
 Detailed guidance around licenses is available 
