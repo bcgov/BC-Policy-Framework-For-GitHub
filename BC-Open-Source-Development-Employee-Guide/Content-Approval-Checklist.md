@@ -1,9 +1,9 @@
 ## Approval Requirements
 
-Minimum content requirements, roles and responsibilities and the basic mechanics of working in GitHub are set out in the Open Development Standard [under construction].  The "Open Content Assessment Checklist" has been designed to help employees ensure there are no barriers to posting material on GitHub. If you are considering sharing code developed by or for the BC Government, you will need to complete this checklist and receive approval from your Deputy Minister (or delegate). 
+Minimum content requirements, roles and responsibilities and the basic mechanics of working in GitHub are set out in the Open Development Standard.  The "Open Content Assessment Checklist" has been designed to help employees ensure there are no barriers to posting existing material on GitHub. If you are considering sharing existing code developed by or for the BC Government, you will need to complete this checklist and receive approval from your Deputy Minister (or delegate). 
 ## Open Content Assessment Checklist
 
-Please complete the checklist to determine if the content can be posted to GitHub
+Please complete the checklist to determine if the existing content can be posted to GitHub
 
 If all answers are "Yes" then posting to GitHub is possible.
 
