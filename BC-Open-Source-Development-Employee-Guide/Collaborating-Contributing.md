@@ -18,7 +18,7 @@ In either case, the basic steps in preparing to release the code are similar (al
 	- you will need to consult with the Intellectual Property Program (IPP) to ensure government has the rights to release the code
 	- If any of it is from another open source project, you will need to ensure you adhere to the existing licensing provisions and ensure licence compatibility when you select a licence to apply to your project
 - Ensure there are no other intellectual property considerations such as patent rights or trademarks in the code or documentation 
-•	Confirm that there are no restrictions on releasing the code or documentation imposed by legislation, policy or contracts
+	- Confirm that there are no restrictions on releasing the code or documentation imposed by legislation, policy or contracts
 - Vet any library dependencies, sample or config data to ensure it is appropriate for release or is separated out 
 - Choose an open source licence and confirm your authority to license (see [Licenses](Licenses.md))
 If you are intending to maintain an active project, you will need to ensure you have established the appropriate processes and terms to manage contributions (described in “initiating a new project” below).
