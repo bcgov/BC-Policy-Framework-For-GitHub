@@ -1,12 +1,14 @@
 **BCGov GitHub Organization "How To"**
 
-<a rel="Delivery" href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"><img alt="In production, but maybe in Alpha or Beta. Intended to persist and be supported." style="border-width:0" src="http://bcdevexchange.org/badge/3.svg" title="In production, but maybe in Alpha or Beta. Intended to persist and be supported." /></a> 
+<a rel="Delivery" href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"><img alt="In production, but maybe in Alpha or Beta. Intended to persist and be supported." style="border-width:0" src="https://assets.bcdevexchange.org/images/badges/delivery.svg" title="In production, but maybe in Alpha or Beta. Intended to persist and be supported." /></a>
 
 **Nov, 2016**
 
-This document is "Beta" – however, all artifacts are available for use in their current state. Feedback and suggestions for improvement are welcome using the GitHub issues functionality.
+This document is "Beta"&mdash;however, all artifacts are available for use in their current state. Feedback and suggestions for improvement are welcome using the GitHub issues functionality.
 
 **Guidance, Templates and Check Lists**
+
+
 # Contents: #
 
 - Guidance
@@ -22,4 +24,9 @@ This document is "Beta" – however, all artifacts are available for use in thei
     - [Sample Contributor Code of Conduct](SAMPLE-CODE_OF_CONDUCT.md)
 - Check Lists
 	- [Content Approval Check List](/ref-docs/Open-Content-Assessment-Checklist.pdf)
+
+<br />
+
+
+#### BCGov GitHub Cheatsheet: [A Quick Guide for BCGov Employees in GitHub](Cheatsheet.md) 
 

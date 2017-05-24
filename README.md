@@ -5,7 +5,7 @@ Kanban Backlog: [![Stories in Ready](https://badge.waffle.io/bcgov/BC-Policy-Fra
 Quick Navigation Files:
 ### [Employee Guide](/BC-Open-Source-Development-Employee-Guide/README.md)
 ### [How To's](/BC-Gov-Org-HowTo/README.md)
-### [BCGov GitHub Cheatsheet](/BC-Open-Source-Development-Employee-Guide/Cheatsheet.md)
+### [BCGov GitHub Cheatsheet](/BC-Gov-Org-HowTo/Cheatsheet.md)
 
 # BC-Policy-Framework-For-GitHub
 BC Developers' Policy and Guideline Documents - All the information a BC Government employee could ever want about GitHub
