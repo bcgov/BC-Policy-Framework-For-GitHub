@@ -1,14 +1,14 @@
-<a rel="Delivery" href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"><img alt="In production, but maybe in Alpha or Beta. Intended to persist and be supported." style="border-width:0" src="http://bcdevexchange.org/badge/3.svg" title="In production, but maybe in Alpha or Beta. Intended to persist and be supported." /></a> 
+<a rel="Delivery" href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"><img alt="In production, but maybe in Alpha or Beta. Intended to persist and be supported." style="border-width:0" src="https://assets.bcdevexchange.org/images/badges/delivery.svg" title="In production, but maybe in Alpha or Beta. Intended to persist and be supported." /></a>
 
 Kanban Backlog: [![Stories in Ready](https://badge.waffle.io/bcgov/BC-Policy-Framework-For-GitHub.png?label=ready&title=Ready)](https://waffle.io/bcgov/BC-Policy-Framework-For-GitHub)
 
 Quick Navigation Files:
 ### [Employee Guide](/BC-Open-Source-Development-Employee-Guide/README.md)
 ### [How To's](/BC-Gov-Org-HowTo/README.md)
-
+### [BCGov GitHub Cheatsheet](/BC-Open-Source-Development-Employee-Guide/Cheatsheet.md)
 
 # BC-Policy-Framework-For-GitHub
-BC Developers' Policy and Guideline Documents - All the information a BC Gvt employee could ever want about GitHub
+BC Developers' Policy and Guideline Documents - All the information a BC Government employee could ever want about GitHub
 
 ***
 The BCGov GitHub Organization represents an ongoing effort to enable public & private sector, as well as citizen developers, the ability to collaborate on, leverage and integrate technology assets outside of the typical government procurement/contract model.
