@@ -5,7 +5,7 @@ Kanban Backlog: [![Stories in Ready](https://badge.waffle.io/bcgov/BC-Policy-Fra
 Quick Navigation Files:
 ### [Employee Guide](/BC-Open-Source-Development-Employee-Guide/README.md)
 ### [How To's](/BC-Gov-Org-HowTo/README.md)
-### ["Working in github/bcgov" Cheatsheet](/BC-Gov-Org-HowTo/Cheatsheet.md)
+### ["Working in github.com/bcgov" Cheatsheet](/BC-Gov-Org-HowTo/Cheatsheet.md)
 
 # BC-Policy-Framework-For-GitHub
 BC Developers' Policy and Guideline Documents - All the information a BC Government employee could ever want about [GitHub](https://github.com/bcgov).
@@ -38,7 +38,7 @@ The framework work items that are actively being constructed are listed
 ## Active Stuff Here:
 * [BC-Gov-Org-HowTo/SAMPLE-README.md template](BC-Gov-Org-HowTo/SAMPLE-README.md)
 * [BC-Open-Source-Development-Employee-Guide/Security.md](BC-Open-Source-Development-Employee-Guide/Security.md)
-* ["Working in github/bcgov" Cheatsheet](/BC-Gov-Org-HowTo/Cheatsheet.md)
+* ["Working in github.com/bcgov" Cheatsheet](/BC-Gov-Org-HowTo/Cheatsheet.md)
 ## License
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">BC Policy Framework For GitHub by the Province of British Columbia</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
