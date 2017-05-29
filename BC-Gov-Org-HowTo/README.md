@@ -25,8 +25,6 @@ This document is "Beta"&mdash;however, all artifacts are available for use in th
 - Check Lists
 	- [Content Approval Check List](/ref-docs/Open-Content-Assessment-Checklist.pdf)
 
-<br />
 
-
-#### BCGov GitHub Cheatsheet: [A Quick Guide for BCGov Employees in GitHub](Cheatsheet.md) 
+You can also refer to the ["Working in githib/bcgov" BCGov GitHub Cheatsheet](Cheatsheet.md), which is meant to be a quick "look-up" for common questions and reminders for BCGov Employees working in GitHub.
 
