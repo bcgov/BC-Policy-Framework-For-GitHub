@@ -45,7 +45,7 @@ This github.com/bcgov Cheatsheet covers:
    1. Attach appropriate LICENSE file directly in the repository
    2. Add the boiler-plate Apache 2.0 LICENSE to the the bottom of your README.md
    3. Add the boiler-plate Apache 2.0 LICENSE to the comments header of *every source code file* 
-- Choose a license for any other content (e.g. docs, wikis and non-code stuff) --- default is [Creative Commons Attribution 4.0 International](Creative Commons Attribution 4.0 International, and should look like this at the bottom of your README.md) --- and add to the footer of your README.md
+- Choose a license for any other content (e.g. docs, wikis and non-code stuff) &mdash;the default is [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)&mdash;and add to the footer of your README.md
 - Repositories can have multiple licenses, for example if there is a mix of code and non-code or if the repo contains open datasets under more than one license
 
 ### Privacy, Security & Intellectual Property/Copyright
