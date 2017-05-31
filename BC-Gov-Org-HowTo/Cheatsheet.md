@@ -9,13 +9,14 @@ This github.com/bcgov Cheatsheet covers:
 
 
 ### Joining github.com/bcgov
-- Create a GitHub account with your work email and "Province of British Columbia" as the company (optional) _and_ join the [BCGov GitHub Organization](https://github.com/bcgov)
+- Create a GitHub account with your work email and "Province of British Columbia" as the company (optional)
 - Enable [two-factor authentication](https://help.github.com/articles/about-two-factor-authentication/) for your GitHub account
-- Join the appropriate [Admin and other teams](https://github.com/orgs/bcgov/teams) in the BCGov GitHub Organization
-- Make sure you have [git](https://git-scm.com/) installed on your computer
+- Join the BCGov Organization (e-mail the BCGov Org contact on the [BCGov GitHub Organization page](https://github.com/bcgov)) and any of the appropriate [Admin and other teams](https://github.com/orgs/bcgov/teams) 
+- Make sure you have [Git](https://git-scm.com/) installed on your computer
 
 
 ### Some Resources for Learning Git & GitHub
+- [Git and GitHub are not the same thing](https://jahya.net/blog/git-vs-github/)
 - [Learn git in 15 minutes](https://try.github.io/levels/1/challenges/1)
 - [On-demand course in GitHub basics](https://github.com/blog/2245-are-you-new-around-here-introducing-an-on-demand-course-in-github-basics)
 
@@ -29,7 +30,7 @@ This github.com/bcgov Cheatsheet covers:
 
 
 ### ALL github.com/bcgov Repositories
-- Every github.com/bcgov repo must have 3 items: 
+- Every github.com/bcgov repo must have 3 items:
   1. LICENSE file
   2. README file
   3. CONTRIBUTING file
@@ -40,7 +41,7 @@ This github.com/bcgov Cheatsheet covers:
 ### How to License the Contents of a Repository
 - Ensure [authority to LICENSE](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Open-Source-Development-Employee-Guide/Licenses.md) the code and other non-code content in the repository
 - Choose [a LICENSE](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Open-Source-Development-Employee-Guide/Licenses.md) for your code (.md files are considered code). The default is the Apache 2.0 LICENSE
-- 1-2-3 Apply the Apache 2.0 LICENSE:
+- Apply the Apache 2.0 LICENSE in 1-2-3 easy steps:
   1. Attach appropriate LICENSE file directly in the repository
   2. Add the boiler-plate Apache 2.0 LICENSE to the the bottom of your README.md
   3. Add the boiler-plate Apache 2.0 LICENSE to the comments header of *every source code file* 
@@ -57,8 +58,7 @@ This github.com/bcgov Cheatsheet covers:
 
 
 ### Approval Requirements
--  Approvals and minium requirements are set out in the
--  [Open Development Standard (pages 14-15)](http://www2.gov.bc.ca/assets/gov/government/services-for-government-and-broader-public-sector/information-technology-services/standards-files/development_standards_for_information_systems_and_services.pdf)
+-  Approvals and minium requirements are set out in the [Open Development Standard (pages 14-15)](http://www2.gov.bc.ca/assets/gov/government/services-for-government-and-broader-public-sector/information-technology-services/standards-files/development_standards_for_information_systems_and_services.pdf)
 -  BC Government employees are responsible for adhering to any Ministry-specific approvals for working in GitHub
 
 
