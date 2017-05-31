@@ -29,10 +29,7 @@ This github.com/bcgov Cheatsheet covers:
 
 
 ### ALL github.com/bcgov Repositories
-- Every github.com/bcgov repo must have:
--- A LICENSE
--- A README
--- A CONTRIBUTING file
+- Every github.com/bcgov repo must have 3 items: LICENSE, README &  CONTRIBUTING files
 - Adding a [Contributor Code of Conduct](http://contributor-covenant.org/) to your repository is [highly encoouraged](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Open-Source-Development-Employee-Guide/Collaborating-Contributing.md)
 - [Sample templates](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Gov-Org-HowTo/README.md) are available for all of these 'must have' files
 
