@@ -29,7 +29,10 @@ This github.com/bcgov Cheatsheet covers:
 
 
 ### ALL github.com/bcgov Repositories
-- Every github.com/bcgov repo must have 3 items: LICENSE, README &  CONTRIBUTING files
+- Every github.com/bcgov repo must have 3 items: 
+  1. LICENSE file
+  2. README file
+  3. CONTRIBUTING file
 - Adding a [Contributor Code of Conduct](http://contributor-covenant.org/) to your repository is [highly encoouraged](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Open-Source-Development-Employee-Guide/Collaborating-Contributing.md)
 - [Sample templates](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Gov-Org-HowTo/README.md) are available for all of these 'must have' files
 
@@ -38,18 +41,18 @@ This github.com/bcgov Cheatsheet covers:
 - Ensure [authority to LICENSE](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Open-Source-Development-Employee-Guide/Licenses.md) the code and other non-code content in the repository
 - Choose [a LICENSE](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Open-Source-Development-Employee-Guide/Licenses.md) for your code (.md files are considered code). The default is the Apache 2.0 LICENSE
 - 1-2-3 Apply the Apache 2.0 LICENSE:
-(1) Attach appropriate LICENSE file directly in the repository
-(2) Add the boiler-plate Apache 2.0 LICENSE to the the bottom of your README.md
-(3) Add the boiler-plate Apache 2.0 LICENSE to the comments header of *every source code file* 
+  1. Attach appropriate LICENSE file directly in the repository
+  2. Add the boiler-plate Apache 2.0 LICENSE to the the bottom of your README.md
+  3. Add the boiler-plate Apache 2.0 LICENSE to the comments header of *every source code file* 
 - Choose a license for any other content (e.g. docs, wikis and non-code stuff) --- default is [Creative Commons Attribution 4.0 International](Creative Commons Attribution 4.0 International, and should look like this at the bottom of your README.md) --- and add to the footer of your README.md
 - Repositories can have multiple licenses, for example if there is a mix of code and non-code or if the repo contains open datasets under more than one license
 
 ### Privacy, Security & Intellectual Property/Copyright
 -  Completing the [Open Content Assessment Checklist](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Open-Source-Development-Employee-Guide/Content-Approval-Checklist.md) helps determine if content can be posted to GitHub by ensuring:
-(1) The content is free of [Personal Information](http://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/privacy) (Privacy)
-(2) The content has been labelled 'Public' using the  [Information Security Classification Framework](http://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/information-security-classification-framework) (Security)
-(3) The content is fully owned by the B.C. government and/or the B.C. government holds the [Intellectual Property/Copyright](http://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/intellectual-property) for the content
-(4) There are no other legal, contractual or policy constraints
+  1. The content is free of [Personal Information](http://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/privacy) (Privacy)
+  2. The content has been labelled 'Public' using the  [Information Security Classification Framework](http://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/information-security-classification-framework) (Security)
+  3. The content is fully owned by the B.C. government and/or the B.C. government holds the [Intellectual Property/Copyright](http://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/intellectual-property) for the content
+  4. There are no other legal, contractual or policy constraints
 - Read more about privacy, security and intellectual property in the [BC-Policy-Framework-For-GitHub](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Open-Source-Development-Employee-Guide/COI-Priv-IP.md)
 
 
