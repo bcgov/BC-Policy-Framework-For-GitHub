@@ -1,4 +1,4 @@
-#Joining the BCGov Organization#
+## Joining the BCGov Organization
 
 The BCGov Organization on GitHub.com is the **only approved venue** for Open Source collaboration on Province Of British Columbia files.
 
