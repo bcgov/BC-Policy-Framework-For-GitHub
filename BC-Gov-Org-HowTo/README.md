@@ -13,6 +13,7 @@ This document is "Beta" – however, all artifacts are available for use in thei
 	- [Joining the BCGov on GitHub](Joining-the-BCGov-on-GitHub.md )
 	- [GitHub Basics Course](https://github.com/blog/2245-are-you-new-around-here-introducing-an-on-demand-course-in-github-basics)
 	- [Creating and Deleting Repos](Creating-And-Deleting-Repos.md)
+	- [Forking repos in the bcgov org](Forking-Repos.md)
 	- [Naming Repos](Naming-Repos.md)
 	- [Using Licenses](using-licenses.md)
 	- [OCIO Open Source Software Guide](/ref-docs/96184_Open_Source_Guideline.pdf)
