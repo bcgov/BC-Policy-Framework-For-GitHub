@@ -22,7 +22,6 @@ The document content, templates and guides are organized into two categories ("E
 # [Employee Guide](/BC-Open-Source-Development-Employee-Guide/README.md)
 # [How To's](/BC-Gov-Org-HowTo/README.md)
 
-
 ----------
 
 
@@ -37,6 +36,12 @@ The framework work items that are actively being constructed are listed
 ## Active Stuff Here:
 * [BC-Gov-Org-HowTo/SAMPLE-README.md template](BC-Gov-Org-HowTo/SAMPLE-README.md)
 * [BC-Open-Source-Development-Employee-Guide/Security.md](BC-Open-Source-Development-Employee-Guide/Security.md)
+
+## How to Contribute
+
+If you would like to contribute to the guide, please see our [CONTRIBUTING](CONTRIBUTING.md) guideleines.
+
+Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">BC Policy Framework For GitHub by the Province of British Columbia</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
