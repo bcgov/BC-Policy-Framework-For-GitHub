@@ -1,27 +1,28 @@
-<a rel="Delivery" href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"><img alt="In production, but maybe in Alpha or Beta. Intended to persist and be supported." style="border-width:0" src="http://bcdevexchange.org/badge/3.svg" title="In production, but maybe in Alpha or Beta. Intended to persist and be supported." /></a> 
+<a rel="Delivery" href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"><img alt="In production, but maybe in Alpha or Beta. Intended to persist and be supported." style="border-width:0" src="https://assets.bcdevexchange.org/images/badges/delivery.svg" title="In production, but maybe in Alpha or Beta. Intended to persist and be supported." /></a>
 
 Kanban Backlog: [![Stories in Ready](https://badge.waffle.io/bcgov/BC-Policy-Framework-For-GitHub.png?label=ready&title=Ready)](https://waffle.io/bcgov/BC-Policy-Framework-For-GitHub)
 
 Quick Navigation Files:
 ### [Employee Guide](/BC-Open-Source-Development-Employee-Guide/README.md)
 ### [How To's](/BC-Gov-Org-HowTo/README.md)
-
+### ["Working in github.com/bcgov" Cheatsheet](/BC-Gov-Org-HowTo/Cheatsheet.md)
 
 # BC-Policy-Framework-For-GitHub
-BC Developers' Policy and Guideline Documents - All the information a BC Gvt employee could ever want about GitHub
+BC Developers' Policy and Guideline Documents - All the information a BC Government employee could ever want about [GitHub](https://github.com/bcgov).
 
 ***
-The BCGov GitHub Organization represents an ongoing effort to enable public & private sector, as well as citizen developers, the ability to collaborate on, leverage and integrate technology assets outside of the typical government procurement/contract model.
+The BCGov GitHub Organization represents an ongoing effort to enable public & private sector developers, as well as citizen developers, the ability to collaborate on, leverage and integrate technology assets outside of the typical government procurement/contract model.
 
-This repo's content is focused on providing information, examples and guidelines to facilitate the creation and governance of BCGov Open Source projects. We don't want to duplicate the good work GitHub has done with their own [online guides](https://guides.github.com/). Our focus is giving BC Government people and projects the info they need to get started on GitHub while remaining compliant with BC standards and policies.
+This repo's content is focused on providing information, examples and guidelines to facilitate the creation and governance of BCGov Open Source projects. We don't want to duplicate the good work GitHub has done with their own [online guides](https://guides.github.com/). Our focus is giving BC Government people and projects the information they need to get started on GitHub while remaining compliant with BC standards and policies.
 
 ## Features
 
-The document content, templates and guides are organized into two categories ("Employee Guide" and "How To"). These are best accessed using the contents section provided in the under these navigation files:
+The document content, templates and guides are organized into two categories ("Employee Guide" and "How To"). These are best accessed using the contents section provided under these navigation files:
 
 # [Employee Guide](/BC-Open-Source-Development-Employee-Guide/README.md)
 # [How To's](/BC-Gov-Org-HowTo/README.md)
 
+There is also a handy ["Cheatsheet"](/BC-Gov-Org-HowTo/Cheatsheet.md) for quick access to key policies and to-do's for BC Government people working in GitHub.
 
 ----------
 
@@ -37,7 +38,9 @@ The framework work items that are actively being constructed are listed
 ## Active Stuff Here:
 * [BC-Gov-Org-HowTo/SAMPLE-README.md template](BC-Gov-Org-HowTo/SAMPLE-README.md)
 * [BC-Open-Source-Development-Employee-Guide/Security.md](BC-Open-Source-Development-Employee-Guide/Security.md)
+* ["Working in github.com/bcgov" Cheatsheet](/BC-Gov-Org-HowTo/Cheatsheet.md)
 
 ## License
+
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">BC Policy Framework For GitHub by the Province of British Columbia</span> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
