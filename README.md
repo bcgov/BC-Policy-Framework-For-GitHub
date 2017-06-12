@@ -22,9 +22,8 @@ The document content, templates and guides are organized into two categories ("E
 # [Employee Guide](/BC-Open-Source-Development-Employee-Guide/README.md)
 # [How To's](/BC-Gov-Org-HowTo/README.md)
 
-There is also a handy ["Cheatsheet"](/BC-Gov-Org-HowTo/Cheatsheet.md) for quick access to key policies and to-do's for BC Government people working in GitHub.
 
-----------
+There is also a handy ["Cheatsheet"](/BC-Gov-Org-HowTo/Cheatsheet.md) for quick access to key policies and to-do's for BC Government people working in GitHub.
 
 
 ## Project Status
@@ -39,6 +38,12 @@ The framework work items that are actively being constructed are listed
 * [BC-Gov-Org-HowTo/SAMPLE-README.md template](BC-Gov-Org-HowTo/SAMPLE-README.md)
 * [BC-Open-Source-Development-Employee-Guide/Security.md](BC-Open-Source-Development-Employee-Guide/Security.md)
 * ["Working in github.com/bcgov" Cheatsheet](/BC-Gov-Org-HowTo/Cheatsheet.md)
+
+## How to Contribute
+
+If you would like to contribute to the guide, please see our [CONTRIBUTING](CONTRIBUTING.md) guideleines.
+
+Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
 ## License
 
