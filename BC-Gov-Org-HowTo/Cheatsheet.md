@@ -25,7 +25,7 @@ This github.com/bcgov Cheatsheet covers:
 -  Choose a path based on whether you are [publishing existing code, initiating a new repository or contributing to an outside repository](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Open-Source-Development-Employee-Guide/Collaborating-Contributing.md)
 -  Complete your [Open Content Assessment Checklist](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Open-Source-Development-Employee-Guide/Content-Approval-Checklist.md)
 -  Follow [GitHub instructions](https://help.github.com/articles/creating-a-new-repository/), and select 'BCGov' as the owner for all new repositories
--  Pick a repository name that follows [best practices](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Gov-Org-HowTo/Naming-Repos.md)---for example typically using lowercase with dashes
+-  Pick a repository name that follows [best practices](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Gov-Org-HowTo/Naming-Repos.md)&mdash;for example typically using lowercase with dashes
 -  Ensure the repo contains the minimum required content (LICENSE, README.md, CONTRIBUTING.md files)
 
 
