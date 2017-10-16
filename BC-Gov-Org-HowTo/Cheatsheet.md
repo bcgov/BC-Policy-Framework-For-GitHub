@@ -34,7 +34,7 @@ This github.com/bcgov Cheatsheet covers:
    1. LICENSE file
    2. README file
    3. CONTRIBUTING file
-- Adding a [Contributor Code of Conduct](http://contributor-covenant.org/) to your repository is [highly encoouraged](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Open-Source-Development-Employee-Guide/Collaborating-Contributing.md)
+- Adding a [Contributor Code of Conduct](http://contributor-covenant.org/) to your repository is [highly encouraged](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Open-Source-Development-Employee-Guide/Collaborating-Contributing.md)
 - [Sample templates](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Gov-Org-HowTo/README.md) are available for all of these 'must have' files
 
 
