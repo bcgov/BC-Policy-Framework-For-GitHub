@@ -1,5 +1,5 @@
 ---
-image: https://octodex.github.com/images/original.png
+image: ../images/octokat.png
 author: patricksimonian
 description: Everything you need to know about working with Github in the BC Government.
 title: Introduction To Github and Gov
