@@ -1,4 +1,8 @@
-
+---
+author: kelpisland
+title: Security Best Practices
+description: Learn more on security and privacy requirments when working in an open environment like Github.
+---
 ## Security
 
 Government employees will want to take particular care to adhere to security and privacy requirements when working on content in an open environment such as GitHub. The Office of the Chief Information Officer (OCIO) provides the [IM/IT Standards](http://www2.gov.bc.ca/gov/content/governments/services-for-government/information-technology/standards) you are required to follow, and the content you work with on GitHub must conform with the requirements of being labeled as "Public" using the [OCIO Information Security Classification Framework](http://www.cio.gov.bc.ca/cio/informationsecurity/classification/information_security_classification_framework.page).
