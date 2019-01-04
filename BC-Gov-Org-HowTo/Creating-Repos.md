@@ -1,4 +1,9 @@
-## Creating and Deleting BCGov Repo's
+---
+title: Starting a New Repository
+description: Everything you need to know about creating a blank project in the BCGov Org.
+author: kelpisland
+---
+## Creating a Repo
 
 Once you are part of the BCGov Organization you might just want to get going on making some stuff. To do that you'll need a Repository (Repo).
 

@@ -2,6 +2,7 @@
 author: kelpisland
 title: Security Best Practices
 description: Learn more on security and privacy requirments when working in an open environment like Github.
+images: ../images/shield.png
 ---
 ## Security
 
