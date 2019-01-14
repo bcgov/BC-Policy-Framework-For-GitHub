@@ -1,3 +1,8 @@
+---
+author: kelpisland
+description: Licences are an important part of managing the sharing of intellectual property and this holds true for code and other material in GitHub. If you are planning to consume, share or contribute anything on GitHub, you will need to understand the requirements associated with the licences that are or will be attached.
+title: Licence Your Project!
+---
 ## Licensing
 
 Licences are an important part of managing the sharing of intellectual property and this holds true for code and other material in GitHub. If you are planning to consume, share or contribute anything on GitHub, you will need to understand the requirements associated with the licences that are or will be attached. 
@@ -58,7 +63,7 @@ The default license For code repositories is: Apache 2.0
 
 Here is the boiler-plate you must put into the comments header of every source code file as well as the bottom of your README.md:
 
-    Copyright 2016 Province of British Columbia
+    Copyright 2019 Province of British Columbia
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

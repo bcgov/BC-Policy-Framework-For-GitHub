@@ -1,4 +1,7 @@
-
+---
+title: Sample Readme File
+description: This is a great starting point for your main README.md file for your new project
+---
 ## Example Readme
 
 This readme serves as an example readme for a government open source project. A brief description of your project would go here.
@@ -33,7 +36,7 @@ The default license For code repositories is: Apache 2.0
 
 Here is the boiler-plate you should put into the comments header of every source code file as well as the bottom of your README.md:
 
-    Copyright 2015 Province of British Columbia
+    Copyright 2019 Province of British Columbia
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.

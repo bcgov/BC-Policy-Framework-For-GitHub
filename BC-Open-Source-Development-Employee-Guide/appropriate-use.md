@@ -1,3 +1,10 @@
+---
+title: Github Practices in Gov
+description: Some basic guidelines to working in Github.
+image: ../images/logo-banner.svg
+author: kelpisland
+---
+
 ## Appropriate Use
 
 - When working on BC Government projects, ensure your primary email address is set to _public.servant_@gov.bc.ca_._ Simply put, use your work address for any work done in your professional capacity. Detailed instructions for setting your notification email for organizations are available here
@@ -10,6 +17,3 @@
 - Prior to publishing any content to GitHub, a suitable licence must be chosen from the list of approved licences and you must confirm your authority to license (see [Licenses](Licenses.md)).
 - Completing the [Open Content publishing checklist](Content-Approval-Checklist.md) is required for each new project prior to making any contributions. The checklist addresses privacy, intellectual property rights and information security. This helps ensure the content posted to GitHub can be published under the appropriate licence.
 
-----------
-
-[Go back to the Contents List](README.md) or continue reading [Conflict of Interest, Privacy and Intellectual Property](COI-Priv-IP.md)
