@@ -29,7 +29,7 @@ There is also a handy ["Cheatsheet"](/BC-Gov-Org-HowTo/Cheatsheet.md) for quick 
 ## Project Status
 November 2015: We have arrived at the delivery phase of the project now that we have been given sign off from the BC Government Chief Information Officer on the Employee Guide contents of this repository. That means we are starting the process of operationalizing our Org activities here on GitHub :)
 
-Right now we are helping some early adopter projects get existing code up on GitHub. If are asking yourself "I wonder if my project code could be added to GitHub?" there is a great resource on OSS-Watch that walks you through an [openness rating checklist] (http://oss-watch.ac.uk/apps/openness/)
+Right now we are helping some early adopter projects get existing code up on GitHub. If are asking yourself "I wonder if my project code could be added to GitHub?" there is a great resource on OSS-Watch that walks you through an [openness rating checklist](http://oss-watch.ac.uk/apps/openness/).
 
 If you are starting a brand new project - you came to the right place! This repo will get you going in the right direction.
 
