@@ -2,8 +2,8 @@
 title: Sample Readme File
 description: This is a great starting point for your main README.md file for your new project
 ---
-## Example Readme
-
+## Sample Readme File
+---
 This readme serves as an example readme for a government open source project. A brief description of your project would go here.
 
 ## Features

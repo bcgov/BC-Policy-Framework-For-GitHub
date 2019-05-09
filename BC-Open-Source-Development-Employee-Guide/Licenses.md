@@ -1,9 +1,9 @@
 ---
 author: kelpisland
 description: Licences are an important part of managing the sharing of intellectual property and this holds true for code and other material in GitHub. If you are planning to consume, share or contribute anything on GitHub, you will need to understand the requirements associated with the licences that are or will be attached.
-title: Licence Your Project!
+title: Licensing Your Project
 ---
-## Licensing
+## Licensing Your Project
 
 Licences are an important part of managing the sharing of intellectual property and this holds true for code and other material in GitHub. If you are planning to consume, share or contribute anything on GitHub, you will need to understand the requirements associated with the licences that are or will be attached. 
 
