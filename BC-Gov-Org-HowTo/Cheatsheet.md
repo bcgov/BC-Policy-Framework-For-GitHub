@@ -63,7 +63,7 @@ This github.com/bcgov Cheatsheet covers:
 
 
 ### Appropriate Use 
-- When you’re consuming, sharing or contributing content to GitHub in your role as a government employee, you must adhere to the [BC Pubic Service Standards of Conduct](http://www2.gov.bc.ca/gov/content/careers-myhr/managers-supervisors/employee-labour-relations/conditions-agreements/policy#standards)
+- When you’re consuming, sharing or contributing content to GitHub in your role as a government employee, you must adhere to the [BC Public Service Standards of Conduct](http://www2.gov.bc.ca/gov/content/careers-myhr/managers-supervisors/employee-labour-relations/conditions-agreements/policy#standards)
 - It is essential that [employees avoid any conflicts of interest when using GitHub](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Open-Source-Development-Employee-Guide/COI-Priv-IP.md), and personal use of GitHub must never be confused with professional use
 - Make sure you're familiar with existing [OCIO policy on information security](http://www2.gov.bc.ca/gov/content?id=BB7D7F3938634BF2973BDE1A899FB755) before downloading or testing any code
 - Be familiar with and follow the various [Appropriate Use](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Open-Source-Development-Employee-Guide/appropriate-use.md) policies, such as the [Social Media Guidelines](http://www.gov.bc.ca/citz/citizens_engagement/some_guidelines_master.pdf) and the [Open Development Standards](http://www2.gov.bc.ca/assets/gov/government/services-for-government-and-broader-public-sector/information-technology-services/standards-files/development_standards_for_information_systems_and_services.pdf)
