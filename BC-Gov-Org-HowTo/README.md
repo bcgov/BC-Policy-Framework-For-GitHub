@@ -14,7 +14,7 @@ This document is "Beta"&mdash;however, all artifacts are available for use in th
 - Guidance
 	- [Joining the BCGov on GitHub](Joining-the-BCGov-on-GitHub.md )
 	- [GitHub Basics Course](https://github.com/blog/2245-are-you-new-around-here-introducing-an-on-demand-course-in-github-basics)
-	- [Creating and Deleting Repos](Creating-And-Deleting-Repos.md)
+	- [Creating and Deleting Repos](Creating-Repos.md)
 	- [Forking repos in the bcgov org](Forking-Repos.md)
 	- [Naming Repos](Naming-Repos.md)
 	- [Using Licenses](using-licenses.md)
