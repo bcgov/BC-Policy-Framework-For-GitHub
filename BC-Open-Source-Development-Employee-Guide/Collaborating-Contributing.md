@@ -1,9 +1,12 @@
+---
+description: Learn more about operating, and possibly maintaining, a GitHub Repository in Gov. 
+---
 ## Approaches to Collaborating/Contributing
 
 ### Approval Requirements
 Minimum content requirements ([README.md](../BC-Gov-Org-HowTo/SAMPLE-README.md), [CONTRIBUTING.md](../BC-Gov-Org-HowTo/SAMPLE-CONTRIBUTING.md) and [LICENSE](../BC-Gov-Org-HowTo/using-licenses.md) files), roles and responsibilities and the basic mechanics of working in GitHub are set out in the Open Development Standard.  The “Open Content Assessment Checklist” has been designed to help employees ensure there are no barriers to posting material on GitHub. If you are considering sharing code developed by or for the BC Government, you will need to complete this checklist and receive approval from your Deputy Minister. To expedite the approval process, Deputy Ministers may choose to delegate this authority to Ministry CIOs.
 
-In general terms, projects on GitHub will fall under one of the three main types described below.  The key considerations will be slightly different depending on which category the project is in.
+In general terms, projects on GitHub will fall under one of the three main types described below. The key considerations will be slightly different depending on which category the project is in.
 
 ### 1. Posting existing (in-house developed or acquired) code or projects
 
