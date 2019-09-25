@@ -10,7 +10,7 @@ If you *don't* have a GitHub account, <a href="https://github.com/join"> go ahea
  
 If you're already a GitHub user, you can continue to use this account for Province of British Columbia Open Source Projects - just make sure you include your "work" (@gov.bc.ca or @<yourcompanydomain>, if you have one, otherwise use your usual email address) email address as part of your GitHub profile.		 
   
-*Note:* You can have more than one email address associated with your account.  
+**Note:** You can have more than one email address associated with your account.  
   
 -  For BCGov employees that's at least: @gov.bc.ca		
 -  The GitHub profile does not need to contain any personal information beyond your name and your ‘company’, if applicable 		
