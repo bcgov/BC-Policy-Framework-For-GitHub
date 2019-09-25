@@ -2,7 +2,7 @@
 
 The [bcgov organization](https://github.com/bcgov) on GitHub.com is the **only approved venue** for Open Source collaboration on Province of British Columbia files.
 
-To be granted permission to create or contribute to a repository in the bcgov org, you need to be invited. Ask an existing member to submit an Access Request on your behalf following [these instructions](https://developer.gov.bc.ca/Getting-Started-on-the-DevOps-Platform/How-to-request-new-GitHub-user-access-or-repository-creation?intention=LOGIN#error=login_required). 
+To be granted permission to create or contribute to a repository in the bcgov org, you need to be invited. Ask an existing member to submit an Access Request on your behalf following [these instructions](https://developer.gov.bc.ca/Getting-Started-on-the-DevOps-Platform/How-to-request-new-GitHub-user-access-or-repository-creation). 
 
 ---
 
