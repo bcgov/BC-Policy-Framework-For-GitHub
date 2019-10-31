@@ -1,7 +1,7 @@
 ---
 title: Github Practices in Gov
 description: Some basic guidelines to working in Github.
-image: ../images/logo-banner.svg
+image: ../images/logo-banner.png
 author: kelpisland
 ---
 
