@@ -1,3 +1,14 @@
+---
+description: A guide for developing in GitHub for BC Government employees.
+tags:
+- GitHub
+- open source
+- code repo repository
+- license
+- guide
+- application development
+- guidelines
+---
 **BC Open Source Development Employee Guide**
 
 <a rel="Delivery" href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"><img alt="In production, but maybe in Alpha or Beta. Intended to persist and be supported." style="border-width:0" src="https://assets.bcdevexchange.org/images/badges/delivery.svg" title="In production, but maybe in Alpha or Beta. Intended to persist and be supported." /></a> 

@@ -1,3 +1,13 @@
+---
+description: A list of tips, tricks and best practices for using GitHub as a code repository for government projects.
+tags:
+- GitHub
+- open source
+- code repo repository
+- license
+- application development
+- guidelines
+---
 **BCGov GitHub Organization "How To"**
 
 <a rel="Delivery" href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"><img alt="In production, but maybe in Alpha or Beta. Intended to persist and be supported." style="border-width:0" src="https://assets.bcdevexchange.org/images/badges/delivery.svg" title="In production, but maybe in Alpha or Beta. Intended to persist and be supported." /></a>
