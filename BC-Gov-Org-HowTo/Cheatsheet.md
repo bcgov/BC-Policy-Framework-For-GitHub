@@ -1,3 +1,14 @@
+---
+description: A list of tips, tricks and best practices for using GitHub as a code repository for government projects.
+tags:
+- GitHub
+- cheatsheet
+- open source
+- code repo repository
+- license
+- application development
+- guidelines
+---
 ## "Working in github.com/bcgov" Cheatsheet
 
 This github.com/bcgov Cheatsheet covers:

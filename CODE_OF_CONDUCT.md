@@ -1,3 +1,13 @@
+---
+description: Repo contibutor code of conduct.
+tags:
+- GitHub
+- open source
+- code repo repository
+- license
+- application development
+- code of conduct
+---
 # Contributor Covenant Code of Conduct
 
 ## Our Pledge
