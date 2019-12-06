@@ -10,9 +10,6 @@ tags:
 title: BC Gov Policy Framework For using GitHub
 ---
 # BC Gov Policy Framework For using GitHub
-<a rel="Delivery" href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"><img alt="In production, but maybe in Alpha or Beta. Intended to persist and be supported." style="border-width:0" src="https://assets.bcdevexchange.org/images/badges/delivery.svg" title="In production, but maybe in Alpha or Beta. Intended to persist and be supported." /></a>
-
-Kanban Backlog: [![Stories in Ready](https://badge.waffle.io/bcgov/BC-Policy-Framework-For-GitHub.png?label=ready&title=Ready)](https://waffle.io/bcgov/BC-Policy-Framework-For-GitHub)
 
 Quick Navigation Files:
 ### [Employee Guide](/BC-Open-Source-Development-Employee-Guide/README.md)
