@@ -1,7 +1,11 @@
 ---
-author: kelpisland
-description: Licences are an important part of managing the sharing of intellectual property and this holds true for code and other material in GitHub. If you are planning to consume, share or contribute anything on GitHub, you will need to understand the requirements associated with the licences that are or will be attached.
+description: Learn more about the different types of licences that are recommended to use when developing opensource applications for the BC Government on Github or other opensource code platforms.
 title: Licensing Your Project
+tags:
+- licenses
+- apache-2.0
+- mit
+- BC OGL
 ---
 ## Licensing Your Project
 
