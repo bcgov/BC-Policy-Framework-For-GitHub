@@ -22,7 +22,7 @@ This github.com/bcgov Cheatsheet covers:
 ### Joining github.com/bcgov
 - Create a GitHub account with your work email and "Province of British Columbia" as the company (optional)
 - Enable [two-factor authentication](https://help.github.com/articles/about-two-factor-authentication/) for your GitHub account
-- Join the BCGov Organization (e-mail the BCGov Org contact on the [BCGov GitHub Organization page](https://github.com/bcgov)) and any of the appropriate [Admin and other teams](https://github.com/orgs/bcgov/teams) 
+- Join the BCGov Organization (follow [these instructions](https://developer.gov.bc.ca/Getting-Started-on-the-DevOps-Platform/How-to-request-new-GitHub-user-access-or-repository-creation)) 
 - Make sure you have [Git](https://git-scm.com/) installed on your computer
 
 
