@@ -24,3 +24,5 @@ You will notice a log entry in the repo indicating who authored the repo (GitHub
 GitHub provides simple instructions <a rel="instr" href="https://help.github.com/articles/creating-a-new-repository/"> here</a> for creating repo's if you need more info.
 
 
+## Managing Repo Access
+Once you have the repo created, next thing is to assign a repo admin. Please make sure at least one repo admin exist at anytime. If you are using [GitHub teams](https://help.github.com/en/github/setting-up-and-managing-organizations-and-teams/about-teams) to manage your team members, please have the team maintainer to request access for the rest of the team. (see [these instructions](https://developer.gov.bc.ca/Getting-Started-on-the-DevOps-Platform/How-to-request-new-GitHub-user-access-or-repository-creation).)
