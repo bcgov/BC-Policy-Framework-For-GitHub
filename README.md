@@ -14,9 +14,9 @@ title: BC Gov Policy Framework For using GitHub
 # BC Gov Policy Framework For using GitHub
 
 Quick Navigation Files:
-### [Employee Guide](/BC-Open-Source-Development-Employee-Guide/README.md)
-### [How To's](/BC-Gov-Org-HowTo/README.md)
-### ["Working in github.com/bcgov" Cheatsheet](/BC-Gov-Org-HowTo/Cheatsheet.md)
+### [Employee Guide](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Open-Source-Development-Employee-Guide/README.md)
+### [How To's](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Gov-Org-HowTo/README.md)
+### ["Working in github.com/bcgov" Cheatsheet](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Gov-Org-HowTo/Cheatsheet.md)
 
 # BC-Policy-Framework-For-GitHub
 BC Developers' Policy and Guideline Documents - All the information a BC Government employee could ever want about [GitHub](https://github.com/bcgov).
@@ -30,11 +30,11 @@ This repo's content is focused on providing information, examples and guidelines
 
 The document content, templates and guides are organized into two categories ("Employee Guide" and "How To"). These are best accessed using the contents section provided under these navigation files:
 
-# [Employee Guide](/BC-Open-Source-Development-Employee-Guide/README.md)
-# [How To's](/BC-Gov-Org-HowTo/README.md)
+# [Employee Guide](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Open-Source-Development-Employee-Guide/README.md)
+# [How To's](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Gov-Org-HowTo/README.md)
 
 
-There is also a handy ["Cheatsheet"](/BC-Gov-Org-HowTo/Cheatsheet.md) for quick access to key policies and to-do's for BC Government people working in GitHub.
+There is also a handy ["Cheatsheet"](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Gov-Org-HowTo/Cheatsheet.md) for quick access to key policies and to-do's for BC Government people working in GitHub.
 
 
 ## Project Status
@@ -46,15 +46,15 @@ If you are starting a brand new project - you came to the right place! This repo
 
 The framework work items that are actively being constructed are listed
 ## Active Stuff Here:
-* [BC-Gov-Org-HowTo/SAMPLE-README.md template](BC-Gov-Org-HowTo/SAMPLE-README.md)
-* [BC-Open-Source-Development-Employee-Guide/Security.md](BC-Open-Source-Development-Employee-Guide/Security.md)
-* ["Working in github.com/bcgov" Cheatsheet](/BC-Gov-Org-HowTo/Cheatsheet.md)
+* [BC-Gov-Org-HowTo/SAMPLE-README.md template](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Gov-Org-HowTo/SAMPLE-README.md)
+* [BC-Open-Source-Development-Employee-Guide/Security.md](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Open-Source-Development-Employee-Guide/Security.md)
+* ["Working in github.com/bcgov" Cheatsheet](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Gov-Org-HowTo/Cheatsheet.md)
 
 ## How to Contribute
 
-If you would like to contribute to the guide, please see our [CONTRIBUTING](CONTRIBUTING.md) guideleines.
+If you would like to contribute to the guide, please see our [CONTRIBUTING](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/CONTRIBUTING.md) guideleines.
 
-Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
+Please note that this project is released with a [Contributor Code of Conduct](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
 ## License
 
