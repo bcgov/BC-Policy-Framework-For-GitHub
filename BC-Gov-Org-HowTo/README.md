@@ -1,14 +1,13 @@
 ---
 description: A list of tips, tricks and best practices for using GitHub as a code repository for government projects.
 tags:
-  - GitHub
-  - open source
-  - code repo repository
-  - license
-  - application development
-  - guidelines
+- GitHub
+- open source
+- code repo repository
+- license
+- application development
+- guidelines
 ---
-
 **BCGov GitHub Organization "How To"**
 
 <a rel="Delivery" href="https://github.com/BCDevExchange/docs/blob/master/discussion/projectstates.md"><img alt="In production, but maybe in Alpha or Beta. Intended to persist and be supported." style="border-width:0" src="https://assets.bcdevexchange.org/images/badges/delivery.svg" title="In production, but maybe in Alpha or Beta. Intended to persist and be supported." /></a>
@@ -19,22 +18,23 @@ This document is "Beta"&mdash;however, all artifacts are available for use in th
 
 **Guidance, Templates and Check Lists**
 
-# Contents:
+
+# Contents: #
 
 - Guidance
-	- [Joining the BCGov on GitHub](Joining-the-BCGov-on-GitHub.md)
-  - [GitHub Basics Course](https://github.com/blog/2245-are-you-new-around-here-introducing-an-on-demand-course-in-github-basics)
-  - [Creating and Deleting Repos](Creating-Repos.md)
-  - [Forking repos in the bcgov org](Forking-Repos.md)
-  - [Naming Repos](Naming-Repos.md)
-  - [Using Licenses](using-licenses.md)
-  - [OCIO Open Source Software Guide](/ref-docs/96184_Open_Source_Guideline.pdf)
+	- [Joining the BCGov on GitHub](Joining-the-BCGov-on-GitHub.md )
+	- [GitHub Basics Course](https://github.com/blog/2245-are-you-new-around-here-introducing-an-on-demand-course-in-github-basics)
+	- [Creating and Deleting Repos](Creating-Repos.md)
+	- [Forking repos in the bcgov org](Forking-Repos.md)
+	- [Naming Repos](Naming-Repos.md)
+	- [Using Licenses](using-licenses.md)
+	- [OCIO Open Source Software Guide](/ref-docs/96184_Open_Source_Guideline.pdf)
 - Templates
-  - [Sample Contributing File](SAMPLE-CONTRIBUTING.md)
-  - [Sample ReadMe File](SAMPLE-README.md)
-  - [Sample Contributor Code of Conduct](SAMPLE-CODE_OF_CONDUCT.md)
+	- [Sample Contributing File](SAMPLE-CONTRIBUTING.md)
+	- [Sample ReadMe File](SAMPLE-README.md)
+    - [Sample Contributor Code of Conduct](SAMPLE-CODE_OF_CONDUCT.md)
 - Check Lists
-  - [Content Approval Check List](/ref-docs/Open-Content-Assessment-Checklist.pdf)
+	- [Content Approval Check List](/ref-docs/Open-Content-Assessment-Checklist.pdf)
 - Github Documentation for Common Options and Tools
   - [Github Actions](https://docs.github.com/en/actions/learn-github-actions): GitHub Actions help you automate tasks within your software development life cycle.
   - [Github Projects](https://docs.github.com/en/github/managing-your-work-on-github/creating-a-project-board): Project boards can be used to create customized workflows to suit your needs, like tracking and prioritizing specific feature work, comprehensive roadmaps, or even release checklists.
