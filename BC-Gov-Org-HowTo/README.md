@@ -43,5 +43,7 @@ This document is "Beta"&mdash;however, all artifacts are available for use in th
   - [Setup Branch Protection Rules](https://docs.github.com/en/github/administering-a-repository/managing-a-branch-protection-rule): You can create a branch protection rule to enforce certain workflows for one or more branches, such as requiring an approving review or passing status checks for all pull requests merged into the protected branch.
   - [Enable Github Environments](https://docs.github.com/en/actions/reference/environments): You can configure environments with protection rules and secrets. A workflow job can reference an environment to use the environment's protection rules and secrets.
   - [Signing Commits](https://docs.github.com/en/github/authenticating-to-github/signing-commits): Using GPG or S/MIME, you can sign tags and commits locally. These tags or commits are marked as verified on GitHub so other people can be confident that the changes come from a trusted source.
-
+	- [Codeowners](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-code-owners): You can use a CODEOWNERS file to define individuals or teams that are responsible for code in a repository.
+	- [Issue and Pull Request Templates](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository): With issue and pull request templates, you can customize and standardize the information you'd like contributors to include when they open issues and pull requests in your repository.
+	
 You can also refer to the ["Working in github.com/bcgov" Cheatsheet](Cheatsheet.md), which is meant to be a quick "look-up" for common questions and reminders for BCGov Employees working in GitHub.
