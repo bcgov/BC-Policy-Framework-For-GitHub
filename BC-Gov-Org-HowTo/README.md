@@ -32,7 +32,7 @@ This document is "Beta"&mdash;however, all artifacts are available for use in th
 - Templates
   - [Sample Contributing File](SAMPLE-CONTRIBUTING.md)
   - [Sample ReadMe File](SAMPLE-README.md)
-    - [Sample Contributor Code of Conduct](SAMPLE-CODE_OF_CONDUCT.md)
+  - [Sample Contributor Code of Conduct](SAMPLE-CODE_OF_CONDUCT.md)
 - Check Lists
   - [Content Approval Check List](/ref-docs/Open-Content-Assessment-Checklist.pdf)
 - Github Documentation for Common Options and Tools
