@@ -10,7 +10,7 @@ Once you are part of the BCGov Organization you might just want to get going on 
 If you are creating an empty project on day one, you're on the "happy path." If you are looking to upload and open stuff that was already made by BC Government employees, contractors, vendors or friends you will have a bit more work to do. In **both** cases you will need to go through the Content Approval Checklist (link coming soon) before you can get started.
 
 - First you will have to enable two-factor authentication for your GitHub account.
- - Two factor authentication can be achieved using mobile apps, SMS or a variety of desktop applications. There are excellent instructions <a rel="2FA" href="https://help.github.com/articles/about-two-factor-authentication/"> here</a> to help you get that done.
+ - Two-factor authentication can be achieved using mobile apps, SMS or a variety of desktop applications. There are excellent instructions <a rel="2FA" href="https://help.github.com/articles/about-two-factor-authentication/"> here</a> to help you get that done.
 - Then you will need to email the BCGov Org contact (see  the email link at the top of the <a rel="home" href="https://github.com/bcgov"> BCGov Org Page</a>) and ask to be added to an admin team for the BCGov GitHub organization.
 - Now, when you create a new repo you need to select ‘BCGov’ as the owner (not your employee account).
 	- Therefore, content added to the repo is ‘owned’ in GitHub terminology by BCGov, not the employee. 
