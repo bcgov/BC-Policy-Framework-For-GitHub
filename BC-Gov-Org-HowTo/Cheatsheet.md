@@ -14,7 +14,7 @@ tags:
 This github.com/bcgov Cheatsheet covers:
 
 - a few things to help when you are just starting out
-- things to touch base with *every time* you open or contribute to repository (as a BC Government employee)
+- things to touch base with *every time* you open or contribute to a repository (as a BC Government employee)
 
  All BC Government employees working in github.com/bcgov should be familiar with the full [BC-Policy-Framework-For-GitHub](https://github.com/bcgov/BC-Policy-Framework-For-GitHub)
 

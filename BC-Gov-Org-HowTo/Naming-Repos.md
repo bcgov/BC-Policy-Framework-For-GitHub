@@ -15,7 +15,7 @@ Although there is no wrong way to name a repo, some names are better than others
 
 
 ### Follow Conventions
-Following the naming conventions that are established for a particular project, code language or community is good place to start. But often Git projects are for websites where many languages are in play. For simplicity sake, modeling website repos after the domain makes sense.
+Following the naming conventions that are established for a particular project, code language or community is good place to start. But often Git projects are for websites where many languages are in play. For simplicity's sake, modeling website repos after the domain makes sense.
 
     http://domain.com ➔ domain.com.git
     http://sub.domain.com ➔ sub.domain.com.git

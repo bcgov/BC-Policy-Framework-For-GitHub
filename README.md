@@ -11,48 +11,36 @@ title: BC Gov Policy Framework For using GitHub
 ---
 [![img](https://img.shields.io/badge/Lifecycle-Stable-97ca00)](https://github.com/bcgov/repomountie/blob/master/doc/lifecycle-badges.md)
 
-# BC Gov Policy Framework For using GitHub
+# BC government policy framework for using GitHub
 
-Quick Navigation Files:
-### [Employee Guide](/BC-Open-Source-Development-Employee-Guide/README.md)
-### [How To's](/BC-Gov-Org-HowTo/README.md)
-### ["Working in github.com/bcgov" Cheatsheet](/BC-Gov-Org-HowTo/Cheatsheet.md)
+This framework document is focused on providing information, examples and guidelines to facilitate the creation and governance of B.C. government open source projects. We don't want to duplicate the good work GitHub has done with their own [online guides](https://guides.github.com/). Our focus is giving B.C. government staff and contractors the information they need to get started on GitHub while remaining compliant with B.C. government's standards and policies.
 
-# BC-Policy-Framework-For-GitHub
-BC Developers' Policy and Guideline Documents - All the information a BC Government employee could ever want about [GitHub](https://github.com/bcgov).
+In short, this framework document aims to provide all the information a BC government employee could ever want about [GitHub](https://github.com/bcgov). 
 
-***
-The BCGov GitHub Organization represents an ongoing effort to enable public & private sector developers, as well as citizen developers, the ability to collaborate on, leverage and integrate technology assets outside of the typical government procurement/contract model.
+* If you are starting a brand-new project - you came to the right place! This document will get you going in the right direction.
+* If are asking yourself "I wonder if my project code could be added to GitHub?" there is a great resource on OSS-Watch that walks you through an [openness rating checklist](http://oss-watch.ac.uk/apps/openness/).
 
-This repo's content is focused on providing information, examples and guidelines to facilitate the creation and governance of BCGov Open Source projects. We don't want to duplicate the good work GitHub has done with their own [online guides](https://guides.github.com/). Our focus is giving BC Government people and projects the information they need to get started on GitHub while remaining compliant with BC standards and policies.
+## The `bcgov` GitHub organization
 
-## Features
+The [`bcgov` GitHub organization](https://github.com/bcgov) is an ongoing effort to enable public & private sector developers, as well as citizen developers, the ability to collaborate on, leverage and integrate technology assets outside the typical government procurement/contract model.
 
-The document content, templates and guides are organized into two categories ("Employee Guide" and "How To"). These are best accessed using the contents section provided under these navigation files:
+## Contents
 
-# [Employee Guide](/BC-Open-Source-Development-Employee-Guide/README.md)
-# [How To's](/BC-Gov-Org-HowTo/README.md)
+You'll find content, templates and guidance within this framework document organized into the sections below:
 
+| Section | Purpose                                                                                                          |
+|---------|------------------------------------------------------------------------------------------------------------------|
+|[Employee Guide](/BC-Open-Source-Development-Employee-Guide/README.md)| A guide for developing in GitHub for BC Government employees.                                                    |   
+|[How To's](/BC-Gov-Org-HowTo/README.md)| Tips, tricks, and best practices for using GitHub as a code repository for government projects.                  |
+|[Cheatsheet](/BC-Gov-Org-HowTo/Cheatsheet.md)| Provides quick access to key policies and to-do's for BC government employees and contractors working in GitHub. |
 
-There is also a handy ["Cheatsheet"](/BC-Gov-Org-HowTo/Cheatsheet.md) for quick access to key policies and to-do's for BC Government people working in GitHub.
+## Project Status (Historical)
 
-
-## Project Status
-November 2015: We have arrived at the delivery phase of the project now that we have been given sign off from the BC Government Chief Information Officer on the Employee Guide contents of this repository. That means we are starting the process of operationalizing our Org activities here on GitHub :)
-
-Right now we are helping some early adopter projects get existing code up on GitHub. If are asking yourself "I wonder if my project code could be added to GitHub?" there is a great resource on OSS-Watch that walks you through an [openness rating checklist](http://oss-watch.ac.uk/apps/openness/).
-
-If you are starting a brand new project - you came to the right place! This repo will get you going in the right direction.
-
-The framework work items that are actively being constructed are listed
-## Active Stuff Here:
-* [BC-Gov-Org-HowTo/SAMPLE-README.md template](BC-Gov-Org-HowTo/SAMPLE-README.md)
-* [BC-Open-Source-Development-Employee-Guide/Security.md](BC-Open-Source-Development-Employee-Guide/Security.md)
-* ["Working in github.com/bcgov" Cheatsheet](/BC-Gov-Org-HowTo/Cheatsheet.md)
+In November 2015 the B.C. government GitHub initiative entered the delivery phase of the project after being given sign off from the BC Government Chief Information Officer on the Employee Guide contents of this repository. Operational processes related to GitHub began to be developed at that time.
 
 ## How to Contribute
 
-If you would like to contribute to the guide, please see our [CONTRIBUTING](CONTRIBUTING.md) guideleines.
+If you would like to contribute to the guide, please see our [CONTRIBUTING guidelines](CONTRIBUTING.md).
 
 Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
 
