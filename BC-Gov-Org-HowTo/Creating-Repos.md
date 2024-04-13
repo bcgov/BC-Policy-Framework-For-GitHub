@@ -11,9 +11,8 @@ If you are creating an empty project on day one, you're on the "happy path." If 
 
 - First you will have to enable two-factor authentication for your GitHub account.
  - Two factor authentication can be achieved using mobile apps, SMS or a variety of desktop applications. There are excellent instructions <a rel="2FA" href="https://help.github.com/articles/about-two-factor-authentication/"> here</a> to help you get that done.
-- Then you will need to email the BCGov Org contact (see  the email link at the top of the <a rel="home" href="https://github.com/bcgov"> BCGov Org Page</a>) and ask to be added to an admin team for the BCGov GitHub organization.
-- Now, when you create a new repo you need to select ‘BCGov’ as the owner (not your employee account).
-	- Therefore, content added to the repo is ‘owned’ in GitHub terminology by BCGov, not the employee. 
+- When you [create a new repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository) you will need to select ‘BCGov’ as the owner (not your employee account).
+	- Therefore, content added to the repo is ‘owned’, in GitHub terminology by BCGov, not the individual. 
 	- There are things to consider when naming your repo that were a good fit for a seperate "How To" that lives [here](Naming-Repos.md)
 - You will need to add the minimum content (License, Readme, and contributing files) to your repo before you get going on any project activities.
 
