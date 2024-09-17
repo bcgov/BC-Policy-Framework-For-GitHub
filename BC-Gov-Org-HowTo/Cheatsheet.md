@@ -29,7 +29,7 @@ This github.com/bcgov Cheatsheet covers:
 ### Some Resources for Learning Git & GitHub
 - [Git and GitHub are not the same thing](https://jahya.net/blog/git-vs-github/)
 - [Learn Git in 15 minutes](https://try.github.io/levels/1/challenges/1)
-- [On-demand course in GitHub basics](https://github.com/blog/2245-are-you-new-around-here-introducing-an-on-demand-course-in-github-basics)
+- [On-demand course in GitHub basics](https://skills.github.com)
 
 
 ### Creating a Repository (also called a "repo", basically a project)
