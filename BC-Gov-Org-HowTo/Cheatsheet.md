@@ -1,4 +1,4 @@
----
+<!--
 description: A list of tips, tricks and best practices for using GitHub as a code repository for government projects.
 tags:
 - GitHub
@@ -8,59 +8,61 @@ tags:
 - license
 - application development
 - guidelines
----
+-->
+
 ## "Working in github.com/bcgov" Cheatsheet
 
 This github.com/bcgov Cheatsheet covers:
 
 - a few things to help when you are just starting out
-- things to touch base with *every time* you open or contribute to repository (as a BC Government employee)
+- things to touch base with *every time* you open or contribute to repository as a BC Government employee
 
- All BC Government employees working in github.com/bcgov should be familiar with the full [BC-Policy-Framework-For-GitHub](https://github.com/bcgov/BC-Policy-Framework-For-GitHub)
-
+All BC Government employees working in bcgov or bcgov-c GitHub should be familiar with the [`GitHub in the BC Government` section of the BC Developer Guide](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/)
 
 ### Joining github.com/bcgov
-- Create a GitHub account with your work email and "Province of British Columbia" as the company (optional)
+- Create a GitHub account and ensure your [work email is the primary or an alternative email associated with your account](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/adding-an-email-address-to-your-github-account)
 - Enable [two-factor authentication](https://help.github.com/articles/about-two-factor-authentication/) for your GitHub account
-- Join the BCGov Organization (follow [these instructions](https://developer.gov.bc.ca/Getting-Started-on-the-DevOps-Platform/How-to-request-new-GitHub-user-access-or-repository-creation)) 
+- Join the BCGov Organization: follow [these instructions](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/bc-government-organizations-in-github/#directions-to-sign-up-and-link-your-account-for-bcgov) 
 - Make sure you have [Git](https://git-scm.com/) installed on your computer
 
 
 ### Some Resources for Learning Git & GitHub
-- [Git and GitHub are not the same thing](https://jahya.net/blog/git-vs-github/)
+- [About Git and GitHub](https://docs.github.com/en/get-started/start-your-journey/about-github-and-git)
 - [Learn Git in 15 minutes](https://try.github.io/levels/1/challenges/1)
 - [On-demand course in GitHub basics](https://skills.github.com)
 
 
 ### Creating a Repository (also called a "repo", basically a project)
--  Choose a path based on whether you are [publishing existing code, initiating a new repository or contributing to an outside repository](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Open-Source-Development-Employee-Guide/Collaborating-Contributing.md)
--  Complete your [Open Content Assessment Checklist](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Open-Source-Development-Employee-Guide/Content-Approval-Checklist.md)
--  Follow [GitHub instructions](https://help.github.com/articles/creating-a-new-repository/), and select 'BCGov' as the owner for all new repositories
--  Pick a repository name that follows [best practices](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Gov-Org-HowTo/Naming-Repos.md)&mdash;for example typically using lowercase with dashes
--  Ensure the repo contains the minimum required content (LICENSE, README.md, CONTRIBUTING.md files)
+-  Choose a path based on whether you are [publishing existing code, initiating a new repository or contributing to an outside repository](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/start-working-in-bcgov-github-organization/)
+-  If you are publishing **existing code**, [evaluate the content to ensure there are no restrictions (e.g., Privacy, Copyright, Legal contractual or policy, Securiy](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/evaluate-open-source-content/) and confirm [authority to publish](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/start-working-in-bcgov-github-organization/)
+-  If you are initiating a **new repository**, follow [GitHub instructions](https://help.github.com/articles/creating-a-new-repository/), and select 'BCGov' as the owner for all new repositories
+- Pick a repository name that follows best practices, for example following a standard convention (e.g., using lowercase with dashes), descriptive with prefix/suffix for technology stack, use case or team etc.
+- Ensure the repo contains the minimum required content (LICENSE, README.md, CONTRIBUTING.md, and CODE_OF_CONDUCT.md files)
+- Consider adding an About description and Topic tags to make it easier for users to learn about the project
+- Consider adding a [Project Lifecycle Badge](https://github.com/bcgov/repomountie/blob/master/doc/lifecycle-badges.md)
 
 
 ### ALL github.com/bcgov Repositories
-- Every github.com/bcgov repo must have 3 items:
-   1. LICENSE file
-   2. README file
-   3. CONTRIBUTING file
-- Adding a [Contributor Code of Conduct](http://contributor-covenant.org/) to your repository is [highly encouraged](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Open-Source-Development-Employee-Guide/Collaborating-Contributing.md)
+- Every github.com/bcgov repo [must have 4 files](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/required-pages-for-github-repository/):
+   1. LICENSE
+   2. README.md
+   3. CONTRIBUTING.md
+   4. CODE_OF_CONDUCT.md
 - [Sample templates](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Gov-Org-HowTo/README.md) are available for all of these 'must have' files
 
 
 ### How to License the Contents of a Repository
-- Ensure [authority to LICENSE](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Open-Source-Development-Employee-Guide/Licenses.md) the code and other non-code content in the repository
-- Choose [a LICENSE](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Open-Source-Development-Employee-Guide/Licenses.md) for your code (.md files are considered code). The default is the Apache 2.0 LICENSE
+- Ensure [authority to LICENSE](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/license-your-github-repository/) the code and other non-code content in the repository
+- Choose [a LICENSE](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/license-your-github-repository/) for your code (.md files are considered code). The default is the Apache 2.0 LICENSE
 - Apply the Apache 2.0 LICENSE in 1-2-3 easy steps:
    1. Attach appropriate LICENSE file directly in the repository
    2. Add the boiler-plate Apache 2.0 LICENSE to the the bottom of your README.md
-   3. Add the boiler-plate Apache 2.0 LICENSE to the comments header of *every source code file* 
+   3. Add the boiler-plate Apache 2.0 LICENSE to the comments header of _**every source code file**_ 
 - Choose a license for any other content (e.g. docs, wikis and non-code stuff) &mdash;the default is [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/)&mdash;and add to the footer of your README.md
 - Repositories can have multiple licenses, for example if there is a mix of code and non-code or if the repo contains open datasets under more than one license
 
 ### Privacy, Security & Intellectual Property/Copyright
--  Completing the [Open Content Assessment Checklist](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Open-Source-Development-Employee-Guide/Content-Approval-Checklist.md) helps determine if content can be posted to GitHub by ensuring:
+-  Completing the [Open Content Assessment Checklist](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Open-Source-Development-Employee-Guide/Content-Approval-Checklist.md) helps determine if **existing** content can be posted to GitHub by ensuring:
    1. The content is free of [Personal Information](http://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/privacy) (Privacy)
    2. The content has been labelled 'Public' using the  [Information Security Classification Framework](http://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/information-security-classification-framework) (Security)
    3. The content is fully owned by the B.C. government and/or the B.C. government holds the [Intellectual Property/Copyright](http://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/intellectual-property) for the content
