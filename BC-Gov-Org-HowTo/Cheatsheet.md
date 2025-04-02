@@ -17,7 +17,7 @@ This github.com/bcgov Cheatsheet covers:
 - a few things to help when you are just starting out
 - things to touch base with *every time* you open or contribute to repository as a BC Government employee
 
-All BC Government employees working in bcgov or bcgov-c GitHub should be familiar with the [_**GitHub in the BC Government**_ section of the BC Developer Guide](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/)
+All BC Government employees working in bcgov or bcgov-c GitHub should be familiar with the [**GitHub in the BC Government** section of the BC Developer Guide](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/)
 
 ### Joining github.com/bcgov
 - Create a GitHub account and ensure your [work email is the primary or an alternative email associated with your account](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/adding-an-email-address-to-your-github-account)
@@ -62,16 +62,16 @@ All BC Government employees working in bcgov or bcgov-c GitHub should be familia
 - Repositories can have multiple licenses, for example if there is a mix of code and non-code or if the repo contains open datasets under more than one license
 
 ### Privacy, Security & Intellectual Property/Copyright
--  Before publishing any _existing code_ to GitHub, you must evaluate the code to ensure there are no restrictions to posting the content to GitHub (e.g., Privacy, Copyright, Legal contractual or policy, Security)(https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/start-working-in-bcgov-github-organization/) by ensuring:
+-  Before publishing any _existing code_ to GitHub, you must [evaluate the code to ensure there are no restrictions to posting the content to GitHub](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/start-working-in-bcgov-github-organization/) (e.g., Privacy, Copyright, Legal contractual or policy, Security) by ensuring:
    1. The content is free of [Personal Information](http://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/privacy) (Privacy)
    2. The content has been labelled 'Public' using the  [Information Security Classification Framework](http://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/information-security-classification-framework) (Security)
    3. The content is fully owned by the B.C. government and/or the B.C. government holds the [Intellectual Property/Copyright](http://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/intellectual-property) for the content
    4. There are no other legal, contractual or policy constraints
-- Read more about assessing privacy, security and intellectual property in the [BC Developer Guide]](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/evaluate-open-source-content/)
+- Read more about assessing privacy, security and intellectual property in the [BC Developer Guide](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/evaluate-open-source-content/)
 
 
 ### Approval Requirements
--  You should get [approval for publishing to GitHub]((https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/start-working-in-bcgov-github-organization/)) from your deputy minister. Deputy ministers may choose to delegate this authority to ministry chief information officers (CIOs).
+-  You should get [approval for publishing to GitHub](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/start-working-in-bcgov-github-organization/) from your deputy minister. Deputy ministers may choose to delegate this authority.
 -  BC Government employees are responsible for adhering to any Ministry-specific approval processes for working in GitHub
 
 
