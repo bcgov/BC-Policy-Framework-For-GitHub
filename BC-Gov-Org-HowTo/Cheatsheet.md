@@ -17,7 +17,7 @@ This github.com/bcgov Cheatsheet covers:
 - a few things to help when you are just starting out
 - things to touch base with *every time* you open or contribute to a code repository as a BC Government employee
 
-All BC Government employees working in bcgov (or bcgov-c) GitHub should be familiar with the [**GitHub in the BC Government**] (https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/bc-government-organizations-in-github/) section of the BC Developer Guide 
+All BC Government employees working in bcgov (or bcgov-c) GitHub should be familiar with the [**GitHub in the BC Government**](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/bc-government-organizations-in-github/) section of the BC Developer Guide 
 
 
 ### Joining github.com/bcgov
@@ -36,7 +36,7 @@ All BC Government employees working in bcgov (or bcgov-c) GitHub should be famil
 ### Creating a Repository (also called a "repo", basically a project)
 -  Choose a path based on whether you are [publishing existing code, initiating a new repository or contributing to an outside repository](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/start-working-in-bcgov-github-organization/)
 -  If you are publishing **existing code**, [evaluate the content to ensure there are no restrictions](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/start-working-in-bcgov-github-organization/#post-existing-code-or-projects) (e.g., Privacy, Copyright, Legal contractual or policy, Security) and confirm [authority to publish](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/license-your-github-repository/#authority-to-license)
--  If you are initiating a **new repository**, follow [GitHub instructions](https://help.github.com/articles/creating-a-new-repository/) and select 'BCGov' as the owner for all new repositories and implement the [required elements](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/start-working-in-bcgov-github-organization/#initiate-new-code-or-projects) of all bcgov repositories
+-  If you are initiating a **new repository**, follow [GitHub instructions](https://help.github.com/articles/creating-a-new-repository/) and select 'BCGov' as the owner for all new repositories and implement the [required elements](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/start-working-in-bcgov-github-organization/#initiate-new-code-or-projects)
 - Pick a repository name that follows best practices, for example following a standard naming convention (e.g., using lowercase with dashes), using short and descriptive names with a prefix/suffix indicating technology stack, use case or team
 - Ensure the repo contains the minimum required content (LICENSE, README.md, CONTRIBUTING.md, and CODE_OF_CONDUCT.md files)
 - Consider adding an About description and Topic tags to the repository details to make it easier for users to learn about the project
@@ -77,7 +77,7 @@ All BC Government employees working in bcgov (or bcgov-c) GitHub should be famil
 
 
 ### Appropriate Use 
-- When you’re consuming, sharing or contributing content to GitHub in your role as a government employee, you must adhere to the [BC Public Service Standards of Conduct](http://www2.gov.bc.ca/gov/content/careers-myhr/managers-supervisors/employee-labour-relations/conditions-agreements/policy#standards)
+- When you’re consuming, sharing or contributing content to GitHub in your role as a government employee, you must adhere to the [BC Public Service Standards of Conduct](https://www2.gov.bc.ca/gov/content?id=0F130A55BFDD4DA1B0ED7FA0AC8D3041)
 - It is essential that [employees avoid any conflicts of interest when using GitHub](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Open-Source-Development-Employee-Guide/COI-Priv-IP.md), and personal use of GitHub must never be confused with professional use
 - Make sure you're familiar with existing [OCIO policy on information security](http://www2.gov.bc.ca/gov/content?id=BB7D7F3938634BF2973BDE1A899FB755) before downloading or testing any code
 
