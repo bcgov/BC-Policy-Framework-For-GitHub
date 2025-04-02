@@ -17,7 +17,7 @@ This github.com/bcgov Cheatsheet covers:
 - a few things to help when you are just starting out
 - things to touch base with *every time* you open or contribute to a code repository as a BC Government employee
 
-All BC Government employees working in bcgov (or bcgov-c) GitHub should be familiar with the [**GitHub in the BC Government** section of the BC Developer Guide](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/bc-government-organizations-in-github/) 
+All BC Government employees working in bcgov (or bcgov-c) GitHub should be familiar with the [**GitHub in the BC Government**] section of the BC Developer Guide(https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/bc-government-organizations-in-github/) 
 
 
 ### Joining github.com/bcgov
@@ -63,10 +63,10 @@ All BC Government employees working in bcgov (or bcgov-c) GitHub should be famil
 - Repositories can have multiple licenses, for example if there is a mix of code and non-code or if the repo contains open datasets under more than one license
 
 ### Privacy, Security & Intellectual Property/Copyright
--  Before publishing any _existing code_ to GitHub, you must [evaluate the code to ensure there are no restrictions to posting the content to GitHub](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/start-working-in-bcgov-github-organization/) (e.g., Privacy, Copyright, Legal contractual or policy, Security) by ensuring:
+-  Before publishing any _existing code_ to GitHub, you must [evaluate the code to ensure there are no restrictions to posting the content to GitHub](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/evaluate-open-source-content/) (e.g., Privacy, Copyright, Legal contractual or policy, Security) by ensuring:
    1. The content is free of [Personal Information](http://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/privacy) (Privacy)
-   2. The content has been labelled 'Public' using the  [Information Security Classification Framework](http://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/information-security-classification-framework) (Security)
-   3. The content is fully owned by the B.C. government and/or the B.C. government holds the [Intellectual Property/Copyright](http://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/intellectual-property) for the content
+   2. The content has been labelled 'Public' using the  [Information Security Classification Framework](https://www2.gov.bc.ca/gov/content/governments/services-for-government/information-management-technology/information-security/information-security-classification) (Security)
+   3. The content is fully owned by the B.C. government and/or the B.C. government holds the [Intellectual Property and Copyright](https://www2.gov.bc.ca/gov/content/governments/services-for-government/policies-procedures/intellectual-property/intellectual-property-program) for the content
    4. There are no other legal, contractual or policy constraints
 - Read more about assessing privacy, security and intellectual property in the [BC Developer Guide](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/evaluate-open-source-content/)
 
