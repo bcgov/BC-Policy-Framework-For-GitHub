@@ -17,7 +17,7 @@ This github.com/bcgov Cheatsheet covers:
 - a few things to help when you are just starting out
 - things to touch base with *every time* you open or contribute to a code repository as a BC Government employee
 
-All BC Government employees working in bcgov (or bcgov-c) GitHub should be familiar with the [**GitHub in the BC Government**] section of the BC Developer Guide(https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/bc-government-organizations-in-github/) 
+All BC Government employees working in bcgov (or bcgov-c) GitHub should be familiar with the [**GitHub in the BC Government**] (https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/bc-government-organizations-in-github/) section of the BC Developer Guide 
 
 
 ### Joining github.com/bcgov
