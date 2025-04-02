@@ -71,8 +71,8 @@ All BC Government employees working in bcgov or bcgov-c GitHub should be familia
 
 
 ### Approval Requirements
--  You should get [approval for publishing to GitHub](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/start-working-in-bcgov-github-organization/) from your deputy minister. Deputy ministers may choose to delegate this authority.
--  BC Government employees are responsible for adhering to any Ministry-specific approval processes for working in GitHub
+-  [Approval for publishing to GitHub](https://developer.gov.bc.ca/docs/default/component/bc-developer-guide/use-github-in-bcgov/start-working-in-bcgov-github-organization/) are from the deputy minister. Deputy ministers may choose to delegate this authority.
+-  BC Government employees are responsible for adhering to any Ministry or project-specific approval processes for working in GitHub
 
 
 ### Appropriate Use 
