@@ -28,11 +28,11 @@ The [`bcgov` GitHub organization](https://github.com/bcgov) is an ongoing effort
 
 You'll find content, templates and guidance within this framework document organized into the sections below:
 
-| Section | Purpose                                                                                                          |
-|---------|------------------------------------------------------------------------------------------------------------------|
-|[Employee Guide](/BC-Open-Source-Development-Employee-Guide/README.md)| A guide for developing in GitHub for BC Government employees.                                                    |   
-|[How To's](/BC-Gov-Org-HowTo/README.md)| Tips, tricks, and best practices for using GitHub as a code repository for government projects.                  |
-|[Cheatsheet](/BC-Gov-Org-HowTo/Cheatsheet.md)| Provides quick access to key policies and to-do's for BC government employees and contractors working in GitHub. |
+| Section                                                                  | Purpose                                                                                                          |
+|--------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
+| [Employee Guide](. /BC-Open-Source-Development-Employee-Guide/README.md) | A guide for developing in GitHub for BC Government employees.                                                    |   
+| [How To's](.//BC-Gov-Org-HowTo/README.md)                                | Tips, tricks, and best practices for using GitHub as a code repository for government projects.                  |
+| [Cheatsheet](.//BC-Gov-Org-HowTo/Cheatsheet.md)                          | Provides quick access to key policies and to-do's for BC government employees and contractors working in GitHub. |
 
 ## Project Status (Historical)
 
