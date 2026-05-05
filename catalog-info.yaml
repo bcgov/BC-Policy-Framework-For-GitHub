@@ -1,0 +1,18 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "bc-policy-framework-for-github"
+  title: "BC Gov Policy Framework for GitHub"
+  description: "Policy and guidelines for BC Government employees using GitHub, including the Employee Guide, How-To's, and the bcgov GitHub Cheatsheet."
+  annotations:
+    github.com/project-slug: bcgov/BC-Policy-Framework-For-GitHub
+  tags:
+    - github
+    - policy
+    - open-source
+    - guidelines
+    - employee-guide
+spec:
+  type: documentation
+  lifecycle: production
+  owner: group:developer-experience
